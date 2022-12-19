@@ -1,0 +1,831 @@
+,fips,state_name,latitude,longtitude,hq_address,hospital_type,hospital_name,hq_city,hq_state
+0,4013,Arizona,33.49549780000007,-112.06615689999995,650 E Indian School Rd,VA Hospital,Phoenix VA Health Care System (AKA Carl T Hayden VA Medical Center),Phoenix,AZ
+1,4019,Arizona,32.181263400000034,-110.96588519999996,3601 S 6th Ave,VA Hospital,Southern Arizona VA Health Care System,Tucson,AZ
+2,6019,California,36.77332350000006,-119.77974209999996,2615 E Clinton Ave,VA Hospital,VA Central California Health Care System,Fresno,CA
+3,9009,Connecticut,41.28440040000004,-72.95761029999994,950 Campbell Ave,VA Hospital,VA Connecticut Healthcare System - West Haven Campus (AKA West Haven VA Medical Center),West Haven,CT
+4,10003,Delaware,39.74020630000007,-75.60653249999996,1601 Kirkwood Hwy,VA Hospital,Wilmington VA Medical Center,Wilmington,DE
+5,11001,District of Columbia,38.93068230000006,-77.01119479999994,50 Irving St Nw,VA Hospital,Washington DC VA Medical Center,Washington,DC
+6,12001,Florida,29.636988900000063,-82.345254,1601 Sw Archer Rd,VA Hospital,North Florida/South Georgia Veterans Health System - Malcom Randall VA Medical Center,Gainesville,FL
+7,16001,Idaho,43.621035,-116.1901845,500 W Fort St,VA Hospital,Boise VA Medical Center,Boise,ID
+8,22017,Louisiana,32.50310080000003,-93.72168259999997,510 E Stoner Ave,VA Hospital,Overton Brooks VA Medical Center,Shreveport,LA
+9,28121,Mississippi,32.32548710000003,-90.10530849999998,1030 River Oaks Dr,Short Term Acute Care Hospital,Merit Health River Oaks (FKA River Oaks Hospital - Jackson),Flowood,MS
+10,29019,Missouri,38.93723540000008,-92.32884869999998,800 Hospital Dr,VA Hospital,Harry S Truman Memorial Veterans Hospital,Columbia,MO
+11,35001,New Mexico,35.055193100000054,-106.5816425,1501 San Pedro Dr Se,VA Hospital,New Mexico VA Health Care System - Raymond G Murphy VA Medical Center,Albuquerque,NM
+12,36001,New York,42.649612700000034,-73.77444039999995,113 Holland Ave,VA Hospital,Albany Stratton VA Medical Center,Albany,NY
+13,36005,New York,40.86740320000007,-73.90640459999997,130 W Kingsbridge Rd,VA Hospital,James J Peters VA Medical Center,Bronx,NY
+14,38017,North Dakota,46.90593280000007,-96.77453,2101 Elm St N,VA Hospital,Fargo VA Health Care System,Fargo,ND
+15,41019,Oregon,43.22706920000008,-123.36505739999996,913 Nw Garden Valley Blvd,VA Hospital,Roseburg VA Health Care System,Roseburg,OR
+16,42003,Pennsylvania,40.44626610000006,-79.96080739999996,4100 Allequippa St,VA Hospital,VA Pittsburgh Healthcare System - University Drive,Pittsburgh,PA
+17,1001,Alabama,32.463778,-86.451938,124 S Memorial Dr,Short Term Acute Care Hospital,Prattville Baptist Hospital,Prattville,AL
+18,1003,Alabama,30.51902650000005,-87.88830669999999,750 Morphy Ave,Short Term Acute Care Hospital,Thomas Hospital,Fairhope,AL
+19,1003,Alabama,30.903945,-87.785172,1815 Hand Ave,Short Term Acute Care Hospital,North Baldwin Infirmary,Bay Minette,AL
+20,1005,Alabama,31.88876410000006,-85.15635649999996,820 W Washington St,Short Term Acute Care Hospital,Medical Center Barbour,Eufaula,AL
+21,1007,Alabama,32.95122340000006,-87.14813359999994,208 Pierson Ave,Short Term Acute Care Hospital,Bibb Medical Center,Centreville,AL
+22,1009,Alabama,33.933302800000035,-86.49499529999997,150 Gilbreath Dr,Critical Access Hospital,St Vincents Blount,Oneonta,AL
+23,1011,Alabama,32.146119,-85.713048,102 Conecuh Ave W,Short Term Acute Care Hospital,Bullock County Hospital,Union Springs,AL
+24,1013,Alabama,31.829093900000032,-86.64627,29 L V Stabler Dr,Short Term Acute Care Hospital,Regional Medical Center of Central Alabama (FKA LV Stabler Memorial Hospital),Greenville,AL
+25,1015,Alabama,33.6676,-85.825,301 E 18th St,Short Term Acute Care Hospital,Stringfellow Memorial Hospital,Anniston,AL
+26,1015,Alabama,33.65639530000004,-85.82283519999999,400 E 10th St,Short Term Acute Care Hospital,Regional Medical Center Anniston (FKA Northeast Alabama Regional Medical Center - Anniston),Anniston,AL
+27,1017,Alabama,32.82464780000004,-85.16859339999996,4800 48th St,Short Term Acute Care Hospital,East Alabama Medical Center - Lanier,Valley,AL
+28,1019,Alabama,34.1627,-85.6513,400 Northwood Dr,Short Term Acute Care Hospital,Cherokee Medical Center,Centre,AL
+29,1025,Alabama,31.694274902000075,-87.77594757099996,295 S Jackson St,Short Term Acute Care Hospital,Grove Hill Memorial Hospital,Grove Hill,AL
+30,1025,Alabama,31.53119470000007,-87.895053,220 Hospital Dr,Short Term Acute Care Hospital,Jackson Medical Center,Jackson,AL
+31,1027,Alabama,33.27714720000006,-85.823822,83825 Highway 9,Short Term Acute Care Hospital,Clay County Hospital,Ashland,AL
+32,1031,Alabama,31.318647,-85.855114,400 N Edwards St,Short Term Acute Care Hospital,Medical Center Enterprise,Enterprise,AL
+33,1033,Alabama,34.744969,-87.675383,201 W Avalon Ave,Short Term Acute Care Hospital,North Alabama Shoals Hospital (FKA Shoals Hospital),Muscle Shoals,AL
+34,1035,Alabama,31.43097810000006,-86.94082129999998,101 Crestview Ave,Short Term Acute Care Hospital,Evergreen Medical Center,Evergreen,AL
+35,1039,Alabama,31.296297800000048,-86.49476239999996,849 S Three Notch St,Short Term Acute Care Hospital,Andalusia Regional Hospital (AKA Andalusia Health),Andalusia,AL
+36,1039,Alabama,31.291985200000056,-86.25420619999994,702 N Main St,Short Term Acute Care Hospital,Mizell Memorial Hospital,Opp,AL
+37,1041,Alabama,31.69335290000004,-86.26509409999994,101 Hospital Dr,Short Term Acute Care Hospital,Crenshaw Community Hospital,Luverne,AL
+38,1043,Alabama,34.20758660000007,-86.87485309999994,1912 Alabama Hwy 157,Short Term Acute Care Hospital,Cullman Regional Medical Center,Cullman,AL
+39,1045,Alabama,31.451328,-85.632075,126 Hospital Ave,Short Term Acute Care Hospital,Dale Medical Center,Ozark,AL
+40,1047,Alabama,32.42927220000007,-87.056025,1015 Medical Center Pkwy,Short Term Acute Care Hospital,Vaughan Regional Medical Center,Selma,AL
+41,1049,Alabama,34.441975300000024,-85.75501379999997,200 Medical Center Dr,Short Term Acute Care Hospital,Dekalb Regional Medical Center,Fort Payne,AL
+42,1051,Alabama,32.534053,-85.912363,805 Friendship Rd,Short Term Acute Care Hospital,Community Hospital,Tallassee,AL
+43,1051,Alabama,32.55237870000008,-86.18666969999998,500 Hospital Dr,Short Term Acute Care Hospital,Elmore Community Hospital,Wetumpka,AL
+44,1053,Alabama,31.1249,-87.0712,1301 Belleville Ave,Short Term Acute Care Hospital,DW McMillan Memorial Hospital,Brewton,AL
+45,1053,Alabama,31.016625300000044,-87.47634889999995,401 Medical Park Dr,Short Term Acute Care Hospital,Atmore Community Hospital,Atmore,AL
+46,1055,Alabama,34.00740220000006,-85.96757189999994,1007 Goodyear Ave,Short Term Acute Care Hospital,Gadsden Regional Medical Center,Gadsden,AL
+47,1055,Alabama,34.004403,-86.003626,600 S 3rd St,Short Term Acute Care Hospital,Riverview Regional Medical Center,Gadsden,AL
+48,1057,Alabama,33.70802660000004,-87.82421789999995,1653 Temple Ave N,Short Term Acute Care Hospital,Fayette Medical Center (FKA Weimer Medical Center),Fayette,AL
+49,1059,Alabama,34.51077260000005,-87.71834709999996,15155 Highway 43,Short Term Acute Care Hospital,Russellville Hospital,Russellville,AL
+50,1059,Alabama,34.4575,-88.1477,211 Hospital Rd,Critical Access Hospital,Red Bay Hospital,Red Bay,AL
+51,1061,Alabama,31.048774,-85.890977,1200 W Maple Ave,Short Term Acute Care Hospital,Wiregrass Medical Center,Geneva,AL
+52,1063,Alabama,32.8421,-87.89,509 Wilson Ave,Short Term Acute Care Hospital,Greene County Hospital,Eutaw,AL
+53,1065,Alabama,32.695544400000074,-87.58690769999998,508 Greene St,Short Term Acute Care Hospital,Hale County Hospital,Greensboro,AL
+54,1069,Alabama,31.23790680000008,-85.456757,4370 W Main St,Short Term Acute Care Hospital,Flowers Hospital,Dothan,AL
+55,1069,Alabama,31.219711500000077,-85.39295439999995,1108 Ross Clark Cir,Short Term Acute Care Hospital,Southeast Health (FKA Southeast Alabama Medical Center),Dothan,AL
+56,1071,Alabama,34.6617,-86.0466,380 Woods Cove Rd,Short Term Acute Care Hospital,Highlands Medical Center,Scottsboro,AL
+57,1073,Alabama,33.50718120000005,-86.78891109999995,810 Saint Vincents Dr,Short Term Acute Care Hospital,St Vincents Birmingham,Birmingham,AL
+58,1073,Alabama,33.49840210000008,-86.84701659999996,701 Princeton Ave Sw,Short Term Acute Care Hospital,Princeton Baptist Medical Center,Birmingham,AL
+59,1073,Alabama,33.43277550000005,-86.71884469999998,3690 Grandview Pkwy,Short Term Acute Care Hospital,Grandview Medical Center (FKA Trinity Medical Center),Birmingham,AL
+60,1073,Alabama,33.596457,-86.66765019999997,50 Medical Park Dr E,Short Term Acute Care Hospital,St Vincents East (FKA Medical Center East),Birmingham,AL
+61,1073,Alabama,33.503575400000045,-86.80245749999995,1720 University Blvd,Short Term Acute Care Hospital,UAB Callahan Eye Hospital,Birmingham,AL
+62,1033,Alabama,34.7464,-87.6989,1300 S Montgomery Ave,Short Term Acute Care Hospital,Helen Keller Hospital,Sheffield,AL
+63,1073,Alabama,33.50661760000003,-86.80319309999999,1802 6th Ave S,Short Term Acute Care Hospital,UAB Hospital,Birmingham,AL
+64,1073,Alabama,33.37227750000005,-86.99061769999997,995 9th Ave Sw,Short Term Acute Care Hospital,Medical West Hospital,Bessemer,AL
+65,1073,Alabama,33.50412060000008,-86.80155489999999,700 19th St S,VA Hospital,Birmingham VA Medical Center,Birmingham,AL
+66,1073,Alabama,33.47023830000006,-86.8069698,2010 Brookwood Medical Ctr Dr,Short Term Acute Care Hospital,Brookwood Baptist Medical Center (FKA Brookwood Medical Center),Birmingham,AL
+67,1077,Alabama,34.80439390000004,-87.65094529999999,1701 Veterans Dr,Short Term Acute Care Hospital,North Alabama Medical Center (FKA Eliza Coffee Memorial Hospital),Florence,AL
+68,1079,Alabama,34.4828,-87.286,202 Hospital St,Short Term Acute Care Hospital,Lawrence Medical Center,Moulton,AL
+69,1081,Alabama,32.640162900000064,-85.40375059999997,2000 Pepperell Pkwy,Short Term Acute Care Hospital,East Alabama Medical Center - Opelika,Opelika,AL
+70,1083,Alabama,34.80426070000004,-86.979177,700 W Market St,Short Term Acute Care Hospital,Athens-Limestone Hospital,Athens,AL
+71,1089,Alabama,34.721046,-86.581799,101 Sivley Rd SW,Short Term Acute Care Hospital,Huntsville Hospital,Huntsville,AL
+72,1089,Alabama,34.69392790000006,-86.57193239999998,1 Hospital Dr,Short Term Acute Care Hospital,Crestwood Medical Center,Huntsville,AL
+73,1091,Alabama,32.384584,-87.91165,105 Us Highway 80 E,Short Term Acute Care Hospital,Whitfield Regional Hospital (FKA Bryan W Whitfield Memorial Hospital),Demopolis,AL
+74,1093,Alabama,33.930256100000065,-87.82442579999997,1530 Us Highway 43,Short Term Acute Care Hospital,Northwest Medical Center,Winfield,AL
+75,1093,Alabama,34.12679950000006,-87.99146519999994,1256 Military St S,Short Term Acute Care Hospital,North Mississippi Medical Center - Hamilton,Hamilton,AL
+76,1095,Alabama,34.22159,-86.160495,2505 Us Highway 431,Short Term Acute Care Hospital,Marshall Medical Center South,Boaz,AL
+77,1097,Alabama,30.707287500000064,-88.09856279999997,2451 USA Medical Center Dr,Short Term Acute Care Hospital,USA Health University Hospital (FKA University of South Alabama Medical Center),Mobile,AL
+78,1097,Alabama,30.67828170000007,-88.19855229999996,6801 Airport Blvd,Short Term Acute Care Hospital,Providence Hospital,Mobile,AL
+79,1097,Alabama,30.698862500000075,-88.07942519999995,5 Mobile Infirmary Cir,Short Term Acute Care Hospital,Mobile Infirmary,Mobile,AL
+80,1097,Alabama,30.68523360000006,-88.13171109999996,3719 Dauphin St,Short Term Acute Care Hospital,Springhill Medical Center,Mobile,AL
+81,1097,Alabama,30.69745120000005,-88.07795869999995,1700 Center St,Childrens Hospital,USA Childrens & Womens Hospital,Mobile,AL
+82,1099,Alabama,31.498257,-87.32068159999994,2016 S Alabama Ave,Short Term Acute Care Hospital,Monroe County Hospital,Monroeville,AL
+83,1101,Alabama,32.37622840000006,-86.17482959999995,400 Taylor Rd,Short Term Acute Care Hospital,Baptist Medical Center East,Montgomery,AL
+84,1101,Alabama,32.376919300000054,-86.24390859999994,215 Perry Hill Rd,VA Hospital,Central Alabama Veterans Health Care System - West Campus,Montgomery,AL
+85,1101,Alabama,32.3269,-86.271,2105 E South Blvd,Short Term Acute Care Hospital,Baptist Medical Center South,Montgomery,AL
+86,1101,Alabama,32.36708310000006,-86.28534919999998,1725 Pine St,Short Term Acute Care Hospital,Jackson Hospital,Montgomery,AL
+87,1103,Alabama,34.59041350000007,-86.972417,1201 7th St SE,Short Term Acute Care Hospital,Decatur Morgan Hospital - Decatur Campus (FKA Decatur General Hospital),Decatur,AL
+88,1109,Alabama,31.78114970000007,-85.94490869999998,1330 Highway 231 S,Short Term Acute Care Hospital,Troy Regional Medical Center,Troy,AL
+89,1113,Alabama,32.50808450000005,-85.00867139999997,4401 Riverchase Dr,Short Term Acute Care Hospital,Jack Hughston Memorial Hospital,Phenix City,AL
+90,1115,Alabama,33.60437050000007,-86.30172529999999,7063 Veterans Pkwy,Short Term Acute Care Hospital,St Vincents St Clair,Pell City,AL
+91,1117,Alabama,33.25241390000008,-86.8130445,1000 1st St N,Short Term Acute Care Hospital,Shelby Baptist Medical Center,Alabaster,AL
+92,1119,Alabama,32.4917,-88.296,751 Derby Dr,Short Term Acute Care Hospital,Hill Hospital of Sumter County,York,AL
+93,1121,Alabama,33.16444660000008,-86.25520419999998,315 W Hickory St,Short Term Acute Care Hospital,Coosa Valley Medical Center,Sylacauga,AL
+94,1121,Alabama,33.4397,-86.0921,604 Stone Ave,Short Term Acute Care Hospital,Citizens Baptist Medical Center,Talladega,AL
+95,1123,Alabama,32.82,-85.7415,201 Mariarden Rd,Short Term Acute Care Hospital,Lake Martin Community Hospital,Dadeville,AL
+96,1123,Alabama,32.9316,-85.9687,3316 Highway 280,Short Term Acute Care Hospital,Russell Medical Center,Alexander City,AL
+97,1125,Alabama,33.20479530000006,-87.52669559999998,809 University Blvd E,Short Term Acute Care Hospital,DCH Regional Medical Center,Tuscaloosa,AL
+98,1125,Alabama,33.191365200000064,-87.48656129999995,3701 Loop Road East,VA Hospital,Tuscaloosa VA Medical Center,Tuscaloosa,AL
+99,1127,Alabama,33.829811,-87.20808949999997,3400 Highway 78 E,Short Term Acute Care Hospital,Walker Baptist Medical Center,Jasper,AL
+100,1129,Alabama,31.459627100000034,-88.235022,14600 Saint Stephens Ave,Critical Access Hospital,Washington County Hospital,Chatom,AL
+101,1131,Alabama,31.998095300000045,-87.30016289999998,317 Mcwilliams Ave,Short Term Acute Care Hospital,J Paul Jones Hospital,Camden,AL
+102,1133,Alabama,34.241867,-87.591312,42024 Highway 195,Short Term Acute Care Hospital,Lakeland Community Hospital,Haleyville,AL
+103,2020,Alaska,61.18790490000004,-149.81691369999996,3200 Providence Dr,Short Term Acute Care Hospital,Providence Alaska Medical Center,Anchorage,AK
+104,2020,Alaska,61.21069310000007,-149.82873329999998,2801 Debarr Rd,Short Term Acute Care Hospital,Alaska Regional Hospital,Anchorage,AK
+105,2020,Alaska,61.18296470000007,-149.79996729999996,4315 Diplomacy Dr,Short Term Acute Care Hospital,Alaska Native Medical Center,Anchorage,AK
+106,2050,Alaska,60.7494,-161.7271,829 Chief Eddie Hoffman Hwy,Short Term Acute Care Hospital,Yukon-Kuskokwim Delta Regional Hospital,Bethel,AK
+107,23011,Maine,44.31062410000004,-69.77948969999994,1 Va Ctr,VA Hospital,Maine VA Medical Center (AKA Togus VA Medical Center),Augusta,ME
+108,2090,Alaska,64.83115690000005,-147.73994709999997,1650 Cowles St,Short Term Acute Care Hospital,Fairbanks Memorial Hospital,Fairbanks,AK
+109,2110,Alaska,58.32901640000006,-134.46491669999995,3260 Hospital Dr,Short Term Acute Care Hospital,Bartlett Regional Hospital,Juneau,AK
+110,2122,Alaska,60.49336990000006,-151.07825209999996,250 Hospital Pl,Short Term Acute Care Hospital,Central Peninsula Hospital,Soldotna,AK
+111,2122,Alaska,60.26951,-149.388742,417 1st Ave,Critical Access Hospital,Providence Seward Medical & Care Center,Seward,AK
+112,2122,Alaska,59.65215050000006,-151.55003389999996,4300 Bartlett St,Critical Access Hospital,South Peninsula Hospital,Homer,AK
+113,2130,Alaska,55.35365710000008,-131.6866346,3100 Tongass Ave,Critical Access Hospital,PeaceHealth Ketchikan Medical Center,Ketchikan,AK
+114,24510,Maryland,39.289565,-76.62448389999997,10 N Greene St,VA Hospital,VA Maryland Health Care System - Baltimore VA Medical Center,Baltimore,MD
+115,2150,Alaska,57.80088370000004,-152.37564719999995,1915 E Rezanof Dr,Critical Access Hospital,Providence Kodiak Island Medical Center,Kodiak,AK
+116,2170,Alaska,61.56316030000005,-149.25763829999997,2500 S Woodworth Loop,Short Term Acute Care Hospital,Mat-Su Regional Medical Center,Palmer,AK
+117,2180,Alaska,64.497393,-165.40595,1000 Greg Kruschek Ave,Critical Access Hospital,Norton Sound Regional Hospital,Nome,AK
+118,2220,Alaska,57.05199030000006,-135.35519879999998,222 Tongass Dr,Critical Access Hospital,Mt Edgecumbe Hospital,Sitka,AK
+119,2275,Alaska,56.3147,-131.7229,310 Bennett St,Critical Access Hospital,Wrangell Medical Center,Wrangell,AK
+120,25015,Massachusetts,42.34717390000003,-72.68592709999996,421 N Main St,VA Hospital,VA Central Western Massachusetts Healthcare System - Northampton VA Medical Center (AKA Edward P Boland Department of Veterans Affairs Medical Center),Leeds,MA
+121,25017,Massachusetts,42.50719460000005,-71.27558859999994,200 Springs Rd,VA Hospital,Edith Nourse Rogers Memorial Veterans Hospital,Bedford,MA
+122,4001,Arizona,35.759317,-109.04839919999996,Intersection of Route 12 and 7,Short Term Acute Care Hospital,Fort Defiance Indian Hospital,Fort Defiance,AZ
+123,4001,Arizona,36.1542,-109.5526,Highway 191,Short Term Acute Care Hospital,Chinle Comprehensive Health Care Facility,Chinle,AZ
+124,4001,Arizona,35.6053,-109.4589,US-191 & AZ-264,Critical Access Hospital,Sage Memorial Hospital,Ganado,AZ
+125,4001,Arizona,34.13164090000004,-109.28550009999998,118 S Mountain Ave,Critical Access Hospital,White Mountain Regional Medical Center,Springerville,AZ
+126,4003,Arizona,31.417589700000065,-109.88279329999996,101 Cole Ave,Critical Access Hospital,Copper Queen Community Hospital,Bisbee,AZ
+127,4003,Arizona,31.96494380000007,-110.30849529999996,450 S Ocotillo Ave,Critical Access Hospital,Benson Hospital,Benson,AZ
+128,4003,Arizona,32.26491250000004,-109.838086,901 W Rex Allen Dr,Critical Access Hospital,Northern Cochise Community Hospital,Willcox,AZ
+129,4003,Arizona,31.554586,-110.230876,5700 E Highway 90,Short Term Acute Care Hospital,Canyon Vista Medical Center (FKA Sierra Vista Regional Health Center),Sierra Vista,AZ
+130,4005,Arizona,35.209004900000025,-111.64390729999997,1200 N Beaver St,Short Term Acute Care Hospital,Flagstaff Medical Center,Flagstaff,AZ
+131,4005,Arizona,36.91754,-111.463911,501 N Navajo Dr,Critical Access Hospital,Page Hospital,Page,AZ
+132,4005,Arizona,36.1362,-111.2397,167 Main Street,Short Term Acute Care Hospital,Tuba City Regional Health Care,Tuba City,AZ
+133,4009,Arizona,33.2953,-110.4178,103 Medicine Way Rd,Short Term Acute Care Hospital,San Carlos Apache Healthcare (FKA PHS Indian Hospital - San Carlos),Peridot,AZ
+134,4007,Arizona,33.40606280000003,-110.8268096,5880 S Hospital Dr,Critical Access Hospital,Cobre Valley Regional Medical Center,Globe,AZ
+135,4007,Arizona,34.2317,-111.3213,807 S Ponderosa St,Critical Access Hospital,Banner Payson Medical Center (AKA Payson Regional Medical Center),Payson,AZ
+136,4009,Arizona,32.822625,-109.734994,1600 S 20th Ave,Short Term Acute Care Hospital,Mt Graham Regional Medical Center,Safford,AZ
+137,4012,Arizona,34.13563650000003,-114.28479369999997,1200 W Mohave Rd,Critical Access Hospital,La Paz Regional Hospital,Parker,AZ
+138,4013,Arizona,33.38995440000008,-111.8770411,1400 S Dobson Rd,Short Term Acute Care Hospital,Banner Desert Medical Center,Mesa,AZ
+139,4013,Arizona,33.60367670000005,-112.28422309999996,10401 W Thunderbird Blvd,Short Term Acute Care Hospital,Banner Boswell Medical Center,Sun City,AZ
+140,4013,Arizona,33.481882,-112.0793096,350 W Thomas Rd,Short Term Acute Care Hospital,St Josephs Hospital and Medical Center,Phoenix,AZ
+141,4013,Arizona,33.525601,-112.10206549999998,2000 W Bethany Home Rd,Short Term Acute Care Hospital,Abrazo Central Campus (FKA Phoenix Baptist Hospital),Phoenix,AZ
+142,4013,Arizona,33.29738670000006,-111.87460539999996,1955 W Frye Rd,Short Term Acute Care Hospital,Chandler Regional Medical Center,Chandler,AZ
+143,4013,Arizona,33.48869670000005,-111.9229987,7400 E Osborn Rd,Short Term Acute Care Hospital,HonorHealth Scottsdale Osborn Medical Center,Scottsdale,AZ
+144,4013,Arizona,33.457309800000075,-112.02611909999996,2601 E Roosevelt St,Short Term Acute Care Hospital,Valleywise Health Medical Center (FKA Maricopa Medical Center),Phoenix,AZ
+145,4013,Arizona,33.56892940000006,-112.0710274,250 E Dunlap Ave,Short Term Acute Care Hospital,HonorHealth John C Lincoln Medical Center (FKA John C Lincoln North Mountain Hospital),Phoenix,AZ
+146,4013,Arizona,33.50278190000006,-112.17077909999996,5102 W Campbell Ave,Short Term Acute Care Hospital,Valleywise Behavioral Health Center - Maryvale (FKA MIHS Maryvale Hospital),Phoenix,AZ
+147,4013,Arizona,33.464967400000035,-112.05788359999995,1111 E Mcdowell Rd,Short Term Acute Care Hospital,Banner - University Medical Center Phoenix (FKA Banner Good Samaritan Medical Center),Phoenix,AZ
+148,4013,Arizona,33.49695,-112.049421,4212 N 16th St,Short Term Acute Care Hospital,Phoenix Indian Medical Center,Phoenix,AZ
+149,4013,Arizona,33.63929020000006,-111.99752149999996,3929 E Bell Rd,Short Term Acute Care Hospital,Abrazo Scottsdale Campus (FKA Paradise Valley Hospital),Phoenix,AZ
+150,4013,Arizona,33.580069,-111.8851431,9003 E Shea Blvd,Short Term Acute Care Hospital,HonorHealth Scottsdale Shea Medical Center,Scottsdale,AZ
+151,4013,Arizona,33.41130950000007,-111.68750789999996,6644 E Baywood Ave,Short Term Acute Care Hospital,Banner Baywood Medical Center,Mesa,AZ
+152,4013,Arizona,33.609194100000025,-112.17958439999995,5555 W Thunderbird Rd,Short Term Acute Care Hospital,Banner Thunderbird Medical Center,Glendale,AZ
+153,4013,Arizona,33.666004600000065,-112.11600869999997,19829 N 27th Ave,Short Term Acute Care Hospital,HonorHealth Deer Valley Medical Center,Phoenix,AZ
+154,4013,Arizona,33.660310700000025,-112.37280089999996,14502 W Meeker Blvd,Short Term Acute Care Hospital,Banner Del E Webb Medical Center,Sun City West,AZ
+155,4013,Arizona,33.65508950000003,-112.20154639999998,18701 N 67th Ave,Short Term Acute Care Hospital,Abrazo Arrowhead Campus (FKA Arrowhead Hospital),Glendale,AZ
+156,4013,Arizona,33.65889850000008,-111.95641919999996,5777 E Mayo Blvd,Short Term Acute Care Hospital,Mayo Clinic Hospital - Arizona,Phoenix,AZ
+157,4013,Arizona,33.41123070000003,-111.6868295,6750 E Baywood Ave,Short Term Acute Care Hospital,Banner Heart Hospital,Mesa,AZ
+158,4013,Arizona,33.38037950000006,-111.7347299,4620 E Baseline Rd,Short Term Acute Care Hospital,Arizona Spine & Joint Hospital,Mesa,AZ
+159,4013,Arizona,33.53219690000003,-112.098972,6501 N 19th Ave,Short Term Acute Care Hospital,CORE Institute Specialty Hospital (FKA the Surgical Hospital of Phoenix),Phoenix,AZ
+160,4013,Arizona,33.46255690000004,-112.35214889999996,13677 W Mcdowell Rd,Short Term Acute Care Hospital,Abrazo West Campus (FKA West Valley Hospital),Goodyear,AZ
+161,4013,Arizona,33.97828240000007,-112.73914109999998,520 Rose Ln,Critical Access Hospital,Wickenburg Community Hospital,Wickenburg,AZ
+162,4013,Arizona,33.333753700000045,-111.891233,2905 W Warner Rd,Short Term Acute Care Hospital,Dignity Health Arizona Specialty Hospital (FKA Arizona Orthopedic Surgical Hospital),Chandler,AZ
+163,4013,Arizona,33.47848220000003,-112.25758889999996,9201 W Thomas Rd,Short Term Acute Care Hospital,Banner Estrella Medical Center,Phoenix,AZ
+164,4013,Arizona,33.28716510000004,-111.75224349999996,3555 S Val Vista Dr,Short Term Acute Care Hospital,Mercy Gilbert Medical Center,Gilbert,AZ
+165,4013,Arizona,33.39146260000007,-111.61208739999996,1301 S Crismon Rd,Short Term Acute Care Hospital,Mountain Vista Medical Center,Mesa,AZ
+166,4013,Arizona,33.38404680000008,-111.7225666,1900 N Higley Rd,Short Term Acute Care Hospital,Banner Gateway Medical Center,Gilbert,AZ
+167,4013,Arizona,33.67098130000005,-111.92229519999997,7400 E Thompson Peak Pkwy,Short Term Acute Care Hospital,HonorHealth Scottsdale Thompson Peak Medical Center,Scottsdale,AZ
+168,4013,Arizona,33.479290400000025,-112.03999869999996,1919 E Thomas Rd,Childrens Hospital,Phoenix Childrens Hospital,Phoenix,AZ
+169,4015,Arizona,35.00274850000005,-114.59627659999995,5330 S Highway 95,Short Term Acute Care Hospital,Valley View Medical Center,Fort Mohave,AZ
+170,4015,Arizona,35.11080560000005,-114.55498289999996,2735 Silver Creek Rd,Short Term Acute Care Hospital,Western Arizona Regional Medical Center,Bullhead City,AZ
+171,4015,Arizona,34.48038210000004,-114.33886679999996,101 Civic Center Ln,Short Term Acute Care Hospital,Havasu Regional Medical Center,Lake Havasu City,AZ
+172,4015,Arizona,35.22015470000008,-114.03709329999998,3269 N Stockton Hill Rd,Short Term Acute Care Hospital,Kingman Regional Medical Center,Kingman,AZ
+173,4017,Arizona,34.20281370000004,-110.01798119999997,2200 E Show Low Lake Rd,Short Term Acute Care Hospital,Summit Healthcare Regional Medical Center,Show Low,AZ
+174,4017,Arizona,35.9347,-110.453,Highway 264 Mile Post 388,Critical Access Hospital,Hopi Health Care Center,Polacca,AZ
+175,4017,Arizona,33.8758,-109.9577,200 West Hospital Drive,Short Term Acute Care Hospital,Whiteriver Indian Hospital,Whiteriver,AZ
+176,4017,Arizona,35.03582970000008,-110.69259769999996,1501 N Williamson Ave,Critical Access Hospital,Little Colorado Medical Center,Winslow,AZ
+177,4019,Arizona,32.42925850000006,-110.94859229999996,1551 E Tangerine Rd,Short Term Acute Care Hospital,Oro Valley Hospital,Oro Valley,AZ
+178,4019,Arizona,31.9183,-111.8792,Arizona State Highway 86,Short Term Acute Care Hospital,Sells Indian Hospital,Sells,AZ
+179,4019,Arizona,32.320276800000045,-111.01007519999996,6200 N La Cholla Blvd,Short Term Acute Care Hospital,Northwest Medical Center,Tucson,AZ
+180,4019,Arizona,32.1778,-110.9295,2800 E Ajo Way,Short Term Acute Care Hospital,Banner - University Medical Center South (FKA University of Arizona Medical Center - South Campus),Tucson,AZ
+181,4019,Arizona,32.2468,-110.9447,1625 N Campbell Ave,Short Term Acute Care Hospital,Banner - University Medical Center Tucson (FKA University of Arizona Medical Center),Tucson,AZ
+182,4019,Arizona,32.25271330000004,-110.87812479999997,5301 E Grant Rd,Short Term Acute Care Hospital,Tucson Medical Center (AKA TMC HealthCare),Tucson,AZ
+183,4019,Arizona,32.228575,-111.001298,1601 W Saint Marys Rd,Short Term Acute Care Hospital,St Marys Hospital,Tucson,AZ
+184,4019,Arizona,32.22648910000004,-110.8550125,350 N Wilmot Rd,Short Term Acute Care Hospital,St Joseph Hospital,Tucson,AZ
+185,4021,Arizona,32.880740100000025,-111.70974549999994,1800 E Florence Blvd,Short Term Acute Care Hospital,Banner Casa Grande Medical Center,Casa Grande,AZ
+186,4023,Arizona,31.340479,-110.959983,1171 W Target Range Rd,Critical Access Hospital,Holy Cross Hospital,Nogales,AZ
+187,4025,Arizona,34.55193,-112.45232,500 N Us Highway 89,VA Hospital,Northern Arizona VA Health Care System,Prescott,AZ
+188,4025,Arizona,34.55934330000008,-112.48111259999996,1003 Willow Creek Rd,Short Term Acute Care Hospital,Yavapai Regional Medical Center - West,Prescott,AZ
+189,4025,Arizona,34.73572880000006,-112.029221,269 S Candy Ln,Short Term Acute Care Hospital,Verde Valley Medical Center,Cottonwood,AZ
+190,4027,Arizona,32.682398800000044,-114.634916,2400 S Avenue A,Short Term Acute Care Hospital,Yuma Regional Medical Center,Yuma,AZ
+191,5001,Arkansas,34.51774780000005,-91.55878369999994,1703 N Buerkle St,Short Term Acute Care Hospital,Baptist Health - Stuttgart,Stuttgart,AR
+192,5001,Arkansas,34.27961370000003,-91.33815669999996,1641 S Whitehead Dr,Critical Access Hospital,DeWitt Hospital & Nursing Home,De Witt,AR
+193,5003,Arkansas,33.13849430000005,-91.93886159999994,1015 Unity Rd,Critical Access Hospital,Ashley County Medical Center,Crossett,AR
+194,5005,Arkansas,36.34295020000008,-92.39441849999996,624 Hospital Dr,Short Term Acute Care Hospital,Baxter Regional Medical Center,Mountain Home,AR
+195,5007,Arkansas,36.18954280000003,-94.50834809999998,603 N Progress Ave,Short Term Acute Care Hospital,Siloam Springs Regional Hospital,Siloam Springs,AR
+196,5007,Arkansas,36.30884780000002,-94.18289629999998,2710 S Rife Medical Ln,Short Term Acute Care Hospital,Mercy Hospital Northwest Arkansas (FKA Mercy Medical Center),Rogers,AR
+197,5007,Arkansas,36.408641,-94.45934159999996,1101 Jackson St Sw,Critical Access Hospital,Ozarks Community Hospital of Gravette (AKA Ozarks Community Health System),Gravette,AR
+198,5009,Arkansas,36.23656980000004,-93.10882439999996,620 N Main St,Short Term Acute Care Hospital,North Arkansas Regional Medical Center,Harrison,AR
+199,5011,Arkansas,33.61077020000005,-92.05913779999996,404 S Bradley St,Critical Access Hospital,Bradley County Medical Center,Warren,AR
+200,5015,Arkansas,36.358969900000034,-93.55169789999997,214 Carter St,Critical Access Hospital,Mercy Hospital Berryville (FKA St Johns Hospital Berryville),Berryville,AR
+201,5017,Arkansas,33.306322900000055,-91.28955269999994,2729 S Highway 65 82,Critical Access Hospital,Chicot Memorial Medical Center,Lake Village,AR
+202,5019,Arkansas,34.122826400000065,-93.08873609999996,3050 Twin Rivers Dr,Critical Access Hospital,Baptist Health - Arkadelphia,Arkadelphia,AR
+203,5021,Arkansas,36.3918,-90.2046,1206 Gordon Duckworth Dr,Critical Access Hospital,Piggott Community Hospital,Piggott,AR
+204,5023,Arkansas,35.504482,-91.99805919999994,1800 ByPass Rd,Critical Access Hospital,Baptist Health - Heber Springs,Heber Springs,AR
+205,5027,Arkansas,33.27425690000007,-93.23918479999998,101 Hospital Dr,Short Term Acute Care Hospital,Magnolia Regional Medical Center,Magnolia,AR
+206,44007,Rhode Island,41.83231540000003,-71.43400669999994,830 Chalkstone Ave,VA Hospital,Providence VA Medical Center,Providence,RI
+207,5029,Arkansas,35.16795430000008,-92.7213852,4 Hospital Dr,Critical Access Hospital,CHI St Vincent Morrilton,Morrilton,AR
+208,5031,Arkansas,35.86686780000008,-90.63670429999996,4800 E Johnson Ave,Short Term Acute Care Hospital,NEA Baptist Memorial Hospital,Jonesboro,AR
+209,5031,Arkansas,35.838368,-90.703918,225 E Washington Ave,Short Term Acute Care Hospital,St Bernards Medical Center,Jonesboro,AR
+210,5033,Arkansas,35.43517890000004,-94.33868159999996,211 Crawford Memorial Dr,Short Term Acute Care Hospital,Baptist Health - Van Buren (FKA Sparks Medical Center - Van Buren),Van Buren,AR
+211,5037,Arkansas,35.219663500000024,-90.78626779999996,310 Falls Blvd S,Critical Access Hospital,CrossRidge Community Hospital,Wynne,AR
+212,5039,Arkansas,33.8116,-92.425,201 N Clifton St,Critical Access Hospital,Dallas County Medical Center,Fordyce,AR
+213,5041,Arkansas,33.6188,-91.3934,900 S 3rd St,Critical Access Hospital,McGehee Hospital (AKA McGehee-Desha County Hospital),McGehee,AR
+214,5041,Arkansas,33.873186900000064,-91.48025659999996,811 Highway 65 S,Critical Access Hospital,Delta Memorial Hospital,Dumas,AR
+215,5043,Arkansas,33.60754730000008,-91.81502029999996,778 Scogin Dr,Short Term Acute Care Hospital,Drew Memorial Health System (FKA Drew Memorial Hospital),Monticello,AR
+216,5045,Arkansas,35.08598470000004,-92.45766129999998,2302 College Ave,Short Term Acute Care Hospital,Conway Regional Medical Center,Conway,AR
+217,5047,Arkansas,35.485691400000064,-93.83348729999994,801 W River St,Critical Access Hospital,Mercy Hospital Ozark,Ozark,AR
+218,5051,Arkansas,34.510017,-93.05718949999994,300 Prospect Ave,Short Term Acute Care Hospital,Levi Hospital (AKA Leo N Levi National Arthritis Hospital),Hot Springs,AR
+219,5051,Arkansas,34.486004,-93.035211,1910 Malvern Ave,Short Term Acute Care Hospital,National Park Medical Center,Hot Springs,AR
+220,5051,Arkansas,34.46817020000003,-93.06631349999998,300 Werner St,Short Term Acute Care Hospital,CHI St Vincent Hot Springs (FKA Mercy Hospital Hot Springs),Hot Springs,AR
+221,5055,Arkansas,36.06,-90.5,900 W Kingshwy,Short Term Acute Care Hospital,Arkansas Methodist Medical Center,Paragould,AR
+222,5057,Arkansas,33.64909990000007,-93.58689519999996,2001 S Main St,Short Term Acute Care Hospital,Wadley Regional Medical Center at Hope (FKA Medical Park Hospital),Hope,AR
+223,5059,Arkansas,34.35878930000007,-92.785668,1001 Schneider Dr,Short Term Acute Care Hospital,Baptist Health - Hot Spring County (FKA Hot Spring County Medical Center),Malvern,AR
+224,45019,South Carolina,32.78411970000008,-79.95406889999998,109 Bee St,VA Hospital,Ralph H Johnson VA Medical Center,Charleston,SC
+225,5061,Arkansas,33.94955780000004,-93.88054819999996,130 Medical Cir,Critical Access Hospital,Howard Memorial Hospital,Nashville,AR
+226,5063,Arkansas,35.767669700000056,-91.63433269999996,1710 Harrison St,Short Term Acute Care Hospital,White River Medical Center,Batesville,AR
+227,5069,Arkansas,34.188636,-92.01767639999996,1600 W 40th Ave,Short Term Acute Care Hospital,Jefferson Regional Medical Center,Pine Bluff,AR
+228,5071,Arkansas,35.4643,-93.4449,1100 E Poplar St,Short Term Acute Care Hospital,Johnson Regional Medical Center,Clarksville,AR
+229,5075,Arkansas,36.0747,-90.9688,1309 W Main St,Critical Access Hospital,Lawrence Memorial Hospital,Walnut Ridge,AR
+230,5083,Arkansas,35.28921320000006,-93.7248661,500 E Academy St,Critical Access Hospital,Mercy Hospital Paris (FKA North Logan Mercy Hospital),Paris,AR
+231,5083,Arkansas,35.14044350000006,-93.934819,880 W Main St,Critical Access Hospital,Mercy Hospital Booneville (FKA Booneville Community Hospital),Booneville,AR
+232,5093,Arkansas,35.69986350000005,-89.97562419999997,611 W Lee Ave,Critical Access Hospital,South Mississippi County Regional Medical Center,Osceola,AR
+233,5093,Arkansas,35.942244,-89.9188352,1520 N Division St,Short Term Acute Care Hospital,Great River Medical Center,Blytheville,AR
+234,5103,Arkansas,33.57586440000006,-92.83626019999996,638 California Ave Sw,Short Term Acute Care Hospital,Ouachita County Medical Center,Camden,AR
+235,5107,Arkansas,34.51021910000003,-90.62717929999997,1801 Martin Luther King Jr Dr,Short Term Acute Care Hospital,Helena Regional Medical Center,Helena,AR
+236,5113,Arkansas,34.58918750000004,-94.22164209999994,311 Morrow St N,Short Term Acute Care Hospital,Mena Regional Health System,Mena,AR
+237,5115,Arkansas,35.28319,-93.149218,1808 W Main St,Short Term Acute Care Hospital,St Marys Regional Medical Center (AKA Saint Marys Regional Health System),Russellville,AR
+238,5119,Arkansas,34.783804400000065,-92.2229774,3333 Springhill Dr,Short Term Acute Care Hospital,Baptist Health - North Little Rock,North Little Rock,AR
+239,5119,Arkansas,34.748863,-92.32121779999994,4301 W Markham St,Short Term Acute Care Hospital,University of Arkansas for Medical Sciences Medical Center (AKA UAMS),Little Rock,AR
+240,5119,Arkansas,34.749804,-92.33959689999996,2 Saint Vincent Cir,Short Term Acute Care Hospital,CHI St Vincent Infirmary,Little Rock,AR
+241,5119,Arkansas,34.74636760000004,-92.32046749999996,4300 W 7th St,VA Hospital,Central Arkansas Veterans Healthcare System - John L McClellan Memorial Veterans Hospital,Little Rock,AR
+242,5119,Arkansas,34.744562200000075,-92.381458,9601 Baptist Health Dr,Short Term Acute Care Hospital,Baptist Health - Little Rock,Little Rock,AR
+243,5119,Arkansas,34.800302300000055,-92.34909319999996,5201 Northshore Dr,Short Term Acute Care Hospital,Arkansas Surgical Hospital,North Little Rock,AR
+244,5119,Arkansas,34.73906750000003,-92.39330609999996,1701 S Shackleford Rd,Short Term Acute Care Hospital,Arkansas Heart Hospital,Little Rock,AR
+245,5119,Arkansas,34.813402300000064,-92.20912419999996,2215 Wildwood Ave,Short Term Acute Care Hospital,CHI St Vincent North,Sherwood,AR
+246,5119,Arkansas,34.74294960000003,-92.29296849999996,1 Childrens Way,Childrens Hospital,Arkansas Childrens Hospital,Little Rock,AR
+247,5121,Arkansas,36.29004520000007,-90.9974883,2801 Medical Center Dr,Short Term Acute Care Hospital,St Bernards Five Rivers (FKA Five Rivers Medical Center),Pocahontas,AR
+248,5123,Arkansas,35.026145100000065,-90.77901819999994,1601 New Castle Rd,Short Term Acute Care Hospital,Forrest City Medical Center,Forrest City,AR
+249,5125,Arkansas,34.573828400000025,-92.58556309999994,1 Medical Park Dr,Short Term Acute Care Hospital,Saline Memorial Hospital,Benton,AR
+250,5127,Arkansas,34.8968,-94.1074,1341 W 6th St,Critical Access Hospital,Mercy Hospital Waldron (FKA Mercy Hospital Scott County),Waldron,AR
+251,5131,Arkansas,35.374113600000044,-94.419774,1001 Towson Ave,Short Term Acute Care Hospital,Baptist Health - Fort Smith (FKA Sparks Regional Medical Center),Fort Smith,AR
+252,5131,Arkansas,35.355797100000075,-94.3526657,7301 Rogers Ave,Short Term Acute Care Hospital,Mercy Hospital Fort Smith (FKA St Edward Mercy Medical Center),Fort Smith,AR
+253,5137,Arkansas,35.85672310000007,-92.08295879999996,2106 E Main St,Critical Access Hospital,Stone County Medical Center,Mountain View,AR
+254,5139,Arkansas,33.2183,-92.6722,700 W Grove St,Short Term Acute Care Hospital,Medical Center of South Arkansas,El Dorado,AR
+255,5141,Arkansas,35.559199,-92.452208,2500 Highway 65 S,Critical Access Hospital,Ozark Health Medical Center,Clinton,AR
+256,5143,Arkansas,36.07739820000006,-94.15693059999997,1100 N College Ave,VA Hospital,Veterans Health Care System of the Ozarks (AKA Fayetteville VA Medical Center),Fayetteville,AR
+257,5143,Arkansas,36.12152040000007,-94.13418449999996,3873 N Parkview Dr,Short Term Acute Care Hospital,Northwest Health Physicians Specialty Hospital,Fayetteville,AR
+258,5143,Arkansas,36.18013970000004,-94.13682289999996,609 W Maple Ave,Short Term Acute Care Hospital,Northwest Medical Center - Springdale,Springdale,AR
+259,5143,Arkansas,36.10920310000006,-94.15953459999996,3215 N Northhills Blvd,Short Term Acute Care Hospital,Washington Regional Medical Center,Fayetteville,AR
+260,5145,Arkansas,35.25068780000004,-91.69233329999996,3214 E Race Ave,Short Term Acute Care Hospital,Unity Health - White County Medical Center,Searcy,AR
+261,5149,Arkansas,35.05454560000004,-93.388009,719 Detroit Ave,Short Term Acute Care Hospital,John Ed Chambers Memorial Hospital,Danville,AR
+262,5149,Arkansas,35.2202,-93.1565,200 N 3rd St,Critical Access Hospital,Dardanelle Regional Medical Center (FKA River Valley Medical Center),Dardanelle,AR
+263,6001,California,37.63367780000005,-122.08854839999998,27200 Calaroga Ave,Short Term Acute Care Hospital,St Rose Hospital,Hayward,CA
+264,6001,California,37.821677,-122.26308459999996,350 Hawthorne Ave,Short Term Acute Care Hospital,Alta Bates Summit Medical Center - Summit Campus,Oakland,CA
+265,6001,California,37.71223620000006,-122.14335239999996,13855 E 14th St,Short Term Acute Care Hospital,San Leandro Hospital,San Leandro,CA
+266,6001,California,37.55726,-121.97976039999998,2000 Mowry Ave,Short Term Acute Care Hospital,Washington Hospital,Fremont,CA
+267,6001,California,37.76278060000004,-122.25349109999996,2070 Clinton Ave,Short Term Acute Care Hospital,Alameda Hospital,Alameda,CA
+268,6001,California,37.69339460000003,-121.88034169999996,5555 W Las Positas Blvd,Short Term Acute Care Hospital,Stanford Health Care - ValleyCare Medical Center,Pleasanton,CA
+269,6001,California,37.85562790000006,-122.25750139999997,2450 Ashby Ave,Short Term Acute Care Hospital,Alta Bates Summit Medical Center - Alta Bates Campus,Berkeley,CA
+270,6001,California,37.823492300000055,-122.25812179999996,3600 Broadway,Short Term Acute Care Hospital,Kaiser Permanente - Oakland Medical Center,Oakland,CA
+271,6001,California,37.69834050000003,-122.08969149999996,20103 Lake Chabot Rd,Short Term Acute Care Hospital,Eden Medical Center,Castro Valley,CA
+272,6005,California,38.35048260000008,-120.764465,200 Mission Blvd,Short Term Acute Care Hospital,Sutter Amador Hospital,Jackson,CA
+273,6007,California,39.74258670000006,-121.849727,1531 Esplanade,Short Term Acute Care Hospital,Enloe Medical Center,Chico,CA
+274,6007,California,39.50625970000005,-121.54109279999994,2767 Olive Hwy,Short Term Acute Care Hospital,Oroville Hospital,Oroville,CA
+275,6009,California,38.190076100000056,-120.6706256,768 Mountain Ranch Rd,Critical Access Hospital,Mark Twain Medical Center,San Andreas,CA
+276,6011,California,39.20630060000008,-122.00071449999996,199 E Webster St,Short Term Acute Care Hospital,Colusa Regional Medical Center,Colusa,CA
+277,6013,California,37.98289960000005,-122.03375649999998,2540 East St,Short Term Acute Care Hospital,John Muir Health - Concord Medical Center,Concord,CA
+278,6013,California,37.982759300000055,-121.8029656,3901 Lone Tree Way,Short Term Acute Care Hospital,Sutter Delta Medical Center,Antioch,CA
+279,6013,California,37.77597050000003,-121.95824259999996,6001 Norris Canyon Rd,Short Term Acute Care Hospital,San Ramon Regional Medical Center,San Ramon,CA
+280,6013,California,37.95084180000004,-121.77492859999997,4501 Sand Creek Rd,Short Term Acute Care Hospital,Kaiser Permanente - Antioch Medical Center,Antioch,CA
+281,6013,California,38.006764,-122.13279369999998,2500 Alhambra Ave,Short Term Acute Care Hospital,Contra Costa Regional Medical Center,Martinez,CA
+282,6013,California,37.89143680000007,-122.05894179999996,1425 S Main St,Short Term Acute Care Hospital,Kaiser Permanente - Walnut Creek Medical Center,Walnut Creek,CA
+283,6013,California,37.91287690000007,-122.04094979999996,1601 Ygnacio Valley Rd,Short Term Acute Care Hospital,John Muir Health - Walnut Creek Medical Center,Walnut Creek,CA
+284,6015,California,41.77365880000008,-124.19424689999994,800 E Washington Blvd,Short Term Acute Care Hospital,Sutter Coast Hospital,Crescent City,CA
+285,6017,California,38.72467,-120.79165009999996,1100 Marshall Way,Short Term Acute Care Hospital,Marshall Medical Center,Placerville,CA
+286,6017,California,38.91165310000008,-119.99780909999998,2170 South Ave,Short Term Acute Care Hospital,Barton Memorial Hospital (AKA Barton Health),South Lake Tahoe,CA
+287,6019,California,36.60807870000008,-119.4517641,372 W Cypress Ave,Short Term Acute Care Hospital,Adventist Health Reedley,Reedley,CA
+288,6019,California,36.742835,-119.78485429999996,2823 Fresno St,Short Term Acute Care Hospital,Community Regional Medical Center,Fresno,CA
+289,6019,California,36.835202200000026,-119.76552779999996,1303 E Herndon Ave,Short Term Acute Care Hospital,Saint Agnes Medical Center,Fresno,CA
+290,6019,California,36.83904290000004,-119.660354,2755 Herndon Ave,Short Term Acute Care Hospital,Clovis Community Medical Center,Clovis,CA
+291,6019,California,36.82484590000007,-119.78191439999996,6125 N Fresno St,Short Term Acute Care Hospital,Fresno Surgical Hospital,Fresno,CA
+292,6019,California,36.84243310000005,-119.780467,7300 N Fresno St,Short Term Acute Care Hospital,Kaiser Permanente - Fresno Medical Center,Fresno,CA
+293,6019,California,36.85991530000007,-119.7887439,15 E Audubon Dr,Short Term Acute Care Hospital,Fresno Heart & Surgical Hospital,Fresno,CA
+294,6021,California,39.52132080000007,-122.20804629999998,1133 W Sycamore St,Critical Access Hospital,Glenn Medical Center,Willows,CA
+295,6023,California,40.10164150000003,-123.79224069999998,733 Cedar St,Critical Access Hospital,Jerold Phelps Community Hospital,Garberville,CA
+296,6023,California,40.58273440000005,-124.1362107,3300 Renner Dr,Critical Access Hospital,Redwood Memorial Hospital,Fortuna,CA
+297,6023,California,40.89633610000004,-124.09167069999997,3800 Janes Rd,Short Term Acute Care Hospital,Mad River Community Hospital,Arcata,CA
+298,6023,California,40.78401570000005,-124.14237859999996,2700 Dolbeer St,Short Term Acute Care Hospital,St Joseph Hospital - Eureka,Eureka,CA
+299,54003,West Virginia,39.41421290000005,-77.91143849999997,510 Butler Ave,VA Hospital,Martinsburg VA Medical Center,Martinsburg,WV
+300,6025,California,32.78043330000003,-115.568571,1415 Ross Ave,Short Term Acute Care Hospital,El Centro Regional Medical Center,El Centro,CA
+301,6025,California,32.95911250000006,-115.55390659999996,207 W Legion Rd,Short Term Acute Care Hospital,Pioneers Memorial Hospital (AKA Pioneers Memorial Healthcare District),Brawley,CA
+302,6027,California,36.60905390000005,-118.05785289999994,501 E Locust St,Critical Access Hospital,Southern Inyo Hospital (AKA Southern Inyo Healthcare District),Lone Pine,CA
+303,6027,California,37.36218260000004,-118.40715219999998,150 Pioneer Ln,Critical Access Hospital,Northern Inyo Hospital,Bishop,CA
+304,6029,California,35.635214,-118.40601969999994,6412 Laurel Ave,Critical Access Hospital,Kern Valley Healthcare District,Lake Isabella,CA
+305,6029,California,35.147446,-118.4504419,1100 Magellan Dr,Critical Access Hospital,Adventist Health Tehachapi Valley (FKA Tehachapi Hospital),Tehachapi,CA
+306,6029,California,35.38293470000008,-118.97053309999995,1700 Mount Vernon Ave,Short Term Acute Care Hospital,Kern Medical (FKA Kern Medical Center),Bakersfield,CA
+307,6029,California,35.37278470000007,-119.02764259999998,2215 Truxtun Ave,Short Term Acute Care Hospital,Mercy Hospital Downtown - Bakersfield,Bakersfield,CA
+308,6029,California,35.351561100000026,-119.05762979999996,901 Olive Dr,Short Term Acute Care Hospital,Good Samaritan Hospital,Bakersfield,CA
+309,6029,California,35.76228540000005,-119.23925189999994,1401 Garces Hwy,Short Term Acute Care Hospital,Delano Regional Medical Center (AKA Adventist Health Delano),Delano,CA
+310,6029,California,35.38470810000007,-119.03991709999995,3001 Sillect Ave,Short Term Acute Care Hospital,Bakersfield Heart Hospital,Bakersfield,CA
+311,6029,California,35.64086,-117.671187,1081 N China Lake Blvd,Critical Access Hospital,Ridgecrest Regional Hospital,Ridgecrest,CA
+312,6029,California,35.38337440000004,-119.0206543,2615 Chester Ave,Short Term Acute Care Hospital,Adventist Health Bakersfield (FKA San Joaquin Community Hospital),Bakersfield,CA
+313,6029,California,35.39170380000007,-119.006893,420 34th St,Short Term Acute Care Hospital,Memorial Hospital - Bakersfield (FKA Bakersfield Memorial Hospital),Bakersfield,CA
+314,6031,California,36.32378720000003,-119.66644659999996,115 Mall Dr,Short Term Acute Care Hospital,Adventist Health Hanford,Hanford,CA
+315,6033,California,38.9355,-122.6201,15630 18th Ave,Critical Access Hospital,Adventist Health Clear Lake (FKA St Helena Hospital - Clear Lake),Clearlake,CA
+316,6033,California,39.104428100000064,-122.906501,5176 Hill Rd E,Critical Access Hospital,Sutter Lakeside Hospital,Lakeport,CA
+317,6035,California,40.43667260000007,-120.62781309999995,1800 Spring Ridge Dr,Critical Access Hospital,Banner Lassen Medical Center,Susanville,CA
+318,6037,California,33.33916080000006,-118.33071619999998,100 Falls Canyon Rd,Critical Access Hospital,Catalina Island Medical Center,Avalon,CA
+319,6037,California,34.09747440000007,-118.28977249999996,4650 W Sunset Blvd,Childrens Hospital,Childrens Hospital Los Angeles,Los Angeles,CA
+320,6037,California,33.80836050000005,-118.18732359999996,2801 Atlantic Ave,Childrens Hospital,Miller Childrens & Womens Hospital Long Beach,Long Beach,CA
+321,6037,California,34.204535100000044,-118.216049,1812 Verdugo Blvd,Short Term Acute Care Hospital,USC Verdugo Hills Hospital,Glendale,CA
+322,6037,California,34.19503160000005,-118.46329329999998,15107 Vanowen St,Short Term Acute Care Hospital,Valley Presbyterian Hospital,Van Nuys,CA
+323,6037,California,34.100917,-118.10559259999997,438 W Las Tunas Dr,Short Term Acute Care Hospital,San Gabriel Valley Medical Center,San Gabriel,CA
+324,6037,California,34.21838580000008,-118.43020629999997,13651 Willard St,Short Term Acute Care Hospital,Panorama City Medical Center,Panorama City,CA
+325,6037,California,34.09834110000003,-118.29459079999998,4867 W Sunset Blvd,Short Term Acute Care Hospital,Los Angeles Medical Center,Los Angeles,CA
+326,6037,California,33.91915280000006,-118.1288176,9333 Imperial Hwy,Short Term Acute Care Hospital,Downey Medical Center,Downey,CA
+327,6037,California,33.779809,-118.186299,1050 Linden Ave,Short Term Acute Care Hospital,St Mary Medical Center Long Beach,Long Beach,CA
+328,6037,California,33.96980410000003,-118.04907329999998,12401 Washington Blvd,Short Term Acute Care Hospital,PIH Health Hospital - Whittier (FKA Presbyterian Intercommunity Hospital),Whittier,CA
+329,6037,California,34.132011,-117.968093,1500 Duarte Rd,Short Term Acute Care Hospital,City of Hope Helford Clinical Research Hospital,Duarte,CA
+330,6037,California,34.03748880000006,-118.26614489999996,1401 S Grand Ave,Short Term Acute Care Hospital,California Hospital Medical Center,Los Angeles,CA
+331,6037,California,34.099908,-118.327509,6245 De Longpre Ave,Short Term Acute Care Hospital,Southern California Hospital at Hollywood (FKA Hollywood Community Hospital),Los Angeles,CA
+332,6037,California,34.15745,-118.4868009,16237 Ventura Blvd,Short Term Acute Care Hospital,Encino Hospital Medical Center,Encino,CA
+333,6037,California,33.98936,-118.2242657,2623 E Slauson Ave,Short Term Acute Care Hospital,Community Hospital of Huntington Park,Huntington Park,CA
+334,6037,California,34.071352,-117.944755,725 S Orange Ave,Short Term Acute Care Hospital,West Covina Medical Center (AKA Doctors Hospital of West Covina),West Covina,CA
+335,6037,California,34.04925790000004,-118.21724529999996,1720 E Cesar E Chavez Ave,Short Term Acute Care Hospital,Adventist Health White Memorial (FKA White Memorial Medical Center),Los Angeles,CA
+336,6037,California,33.930826,-118.203228,3630 E Imperial Hwy,Short Term Acute Care Hospital,St Francis Medical Center,Lynwood,CA
+337,6037,California,34.027099,-118.48630509999998,1250 16th St,Short Term Acute Care Hospital,UCLA Health - Santa Monica Medical Center,Santa Monica,CA
+338,6037,California,34.22009550000007,-118.53311359999998,18300 Roscoe Blvd,Short Term Acute Care Hospital,Northridge Hospital Medical Center,Northridge,CA
+339,6037,California,34.09604250000007,-118.29062039999997,1300 N Vermont Ave,Short Term Acute Care Hospital,CHA Hollywood Presbyterian Medical Center,Los Angeles,CA
+340,6037,California,34.12808620000004,-118.25695639999998,1420 S Central Ave,Short Term Acute Care Hospital,Glendale Memorial Hospital,Glendale,CA
+341,6037,California,33.73836150000005,-118.30504309999998,1300 W 7th St,Short Term Acute Care Hospital,Providence Little Company of Mary Medical Center San Pedro,San Pedro,CA
+342,6037,California,33.91277260000004,-118.09882569999996,13100 Studebaker Rd,Short Term Acute Care Hospital,Coast Plaza Hospital,Norwalk,CA
+343,6037,California,34.5828,-118.1443,38600 Medical Center Dr,Short Term Acute Care Hospital,Palmdale Regional Medical Center,Palmdale,CA
+344,6037,California,34.12756020000006,-117.86511709999996,150 W Route 66,Psychiatric Hospital,Glendora Oaks Behavioral Health Hospital (FKA Glendora Community Hospital),Glendora,CA
+345,6037,California,34.07607580000007,-117.75044939999998,1798 N Garey Ave,Short Term Acute Care Hospital,Pomona Valley Hospital Medical Center,Pomona,CA
+346,6037,California,34.156213800000046,-118.3284546,501 S Buena Vista St,Short Term Acute Care Hospital,Providence Saint Joseph Medical Center,Burbank,CA
+347,6037,California,34.13444860000004,-118.04166229999998,300 W Huntington Dr,Short Term Acute Care Hospital,Methodist Hospital of Southern California,Arcadia,CA
+348,6037,California,34.15021390000004,-118.23045909999996,1509 Wilson Ter,Short Term Acute Care Hospital,Adventist Health Glendale (FKA Glendale Adventist Medical Center),Glendale,CA
+349,6037,California,33.806950200000074,-118.19285319999994,2776 Pacific Ave,Short Term Acute Care Hospital,College Medical Center (FKA Pacific Hospital of Long Beach),Long Beach,CA
+350,6037,California,34.279939400000046,-118.45991629999996,15031 Rinaldi St,Short Term Acute Care Hospital,Providence Holy Cross Medical Center,Mission Hills,CA
+351,6037,California,34.03077390000004,-118.47964449999996,2121 Santa Monica Blvd,Short Term Acute Care Hospital,Providence Saint Johns Health Center (FKA St Johns Health Center),Santa Monica,CA
+352,6037,California,33.777569,-118.11894279999996,5901 E 7th St,VA Hospital,VA Long Beach Healthcare System (AKA Tibor Rubin VA Medical Center),Long Beach,CA
+353,6037,California,34.066476400000056,-118.44657379999995,757 Westwood Plz,Short Term Acute Care Hospital,Ronald Reagan UCLA Medical Center,Los Angeles,CA
+354,6037,California,34.09030510000008,-118.1440538,100 S Raymond Ave,Short Term Acute Care Hospital,Alhambra Hospital Medical Center,Alhambra,CA
+355,6037,California,33.838467800000046,-118.35724359999996,4101 Torrance Blvd,Short Term Acute Care Hospital,Providence Little Company of Mary Medical Center Torrance,Torrance,CA
+356,6037,California,34.015015,-118.100636,309 W Beverly Blvd,Short Term Acute Care Hospital,Beverly Hospital,Montebello,CA
+357,6037,California,33.81191570000004,-118.34349449999996,3330 Lomita Blvd,Short Term Acute Care Hospital,Torrance Memorial Medical Center,Torrance,CA
+358,6037,California,34.240099100000066,-118.39649619999994,9449 San Fernando Rd,Short Term Acute Care Hospital,Pacifica Hospital of the Valley,Sun Valley,CA
+359,6037,California,34.08787380000007,-117.89350049999996,210 W San Bernardino Rd,Short Term Acute Care Hospital,Emanate Health Inter-Community Hospital (FKA Inter-Community Hospital),Covina,CA
+360,6037,California,33.934150300000056,-118.13174339999996,11500 Brookshire Ave,Short Term Acute Care Hospital,PIH Health Hospital - Downey (FKA Downey Regional Medical Center and Downey Medical Group),Downey,CA
+361,6037,California,34.133639,-118.152753,100 W California Blvd,Short Term Acute Care Hospital,Huntington Hospital (FKA Huntington Memorial Hospital),Pasadena,CA
+362,6037,California,33.788237700000025,-118.295397,25825 Vermont Ave,Short Term Acute Care Hospital,South Bay Medical Center,Harbor City,CA
+363,6037,California,33.892992900000024,-118.29500489999998,1145 W Redondo Beach Blvd,Short Term Acute Care Hospital,Memorial Hospital of Gardena,Gardena,CA
+364,6037,California,34.05419880000005,-118.26505929999996,1225 Wilshire Blvd,Short Term Acute Care Hospital,PIH Health Good Samaritan Hospital,Los Angeles,CA
+365,6037,California,34.20292550000005,-118.62877909999996,7300 Medical Center Dr,Short Term Acute Care Hospital,West Hills Hospital & Medical Center,West Hills,CA
+366,6037,California,33.80836050000005,-118.18732359999996,2801 Atlantic Ave,Short Term Acute Care Hospital,Long Beach Medical Center (FKA Long Beach Memorial Medical Center),Long Beach,CA
+367,6037,California,33.87431360000005,-118.12973189999995,9542 Artesia Blvd,Short Term Acute Care Hospital,Los Angeles Community Hospital at Bellflower (FKA Bellflower Medical Center),Bellflower,CA
+368,6037,California,34.03834660000007,-118.37590009999997,6041 Cadillac Ave,Short Term Acute Care Hospital,West Los Angeles Medical Center,Los Angeles,CA
+369,6037,California,34.06550160000006,-117.98645239999996,1011 Baldwin Park Blvd,Short Term Acute Care Hospital,Baldwin Park Medical Center,Baldwin Park,CA
+370,6037,California,33.949821600000064,-118.00332959999996,9080 Colima Rd,Short Term Acute Care Hospital,Whittier Hospital Medical Center,Whittier,CA
+371,6037,California,34.04954780000003,-118.1383262,900 S Atlantic Blvd,Short Term Acute Care Hospital,Monterey Park Hospital,Monterey Park,CA
+372,6037,California,34.06789470000007,-118.12380429999996,525 N Garfield Ave,Short Term Acute Care Hospital,Garfield Medical Center,Monterey Park,CA
+373,6037,California,34.048051600000065,-118.04340029999996,1701 Santa Anita Ave,Short Term Acute Care Hospital,Greater El Monte Community Hospital,South El Monte,CA
+374,6037,California,33.9507,-118.3482,555 E Hardy St,Short Term Acute Care Hospital,Centinela Hospital Medical Center,Inglewood,CA
+375,6037,California,33.98214350000006,-118.43921919999995,4650 Lincoln Blvd,Short Term Acute Care Hospital,Cedars-Sinai Marina Del Rey Hospital,Marina Del Rey,CA
+376,6037,California,34.05728750000003,-118.360485,5900 W Olympic Blvd,Short Term Acute Care Hospital,Olympia Medical Center,Los Angeles,CA
+377,6037,California,34.170530100000065,-118.5320582,18321 Clark St,Short Term Acute Care Hospital,Providence Tarzana Medical Center,Tarzana,CA
+378,6037,California,34.06953170000003,-118.26348879999996,1711 W Temple St,Short Term Acute Care Hospital,LA Downtown Medical Center - Downtown Campus (FKA Silver Lake Medical Center - Downtown Campus),Los Angeles,CA
+379,6037,California,34.16023050000007,-118.44963279999996,4929 Van Nuys Blvd,Short Term Acute Care Hospital,Sherman Oaks Hospital,Sherman Oaks,CA
+380,6037,California,34.05269540000006,-118.45261949999995,11301 Wilshire Blvd,VA Hospital,VA Greater Los Angeles Healthcare System - West Los Angeles Medical Center,Los Angeles,CA
+381,6037,California,34.44002870000003,-118.59146959999998,23845 Mcbean Pkwy,Short Term Acute Care Hospital,Henry Mayo Newhall Hospital,Valencia,CA
+382,6037,California,34.075153,-118.38027659999996,8700 Beverly Blvd,Short Term Acute Care Hospital,Cedars-Sinai Medical Center,Los Angeles,CA
+383,6037,California,33.83357010000003,-118.08016959999998,21530 Pioneer Blvd,Short Term Acute Care Hospital,Pacific Gardens Medical Center (FKA Gardens Regional Hospital and Medical Center),Hawaiian Gardens,CA
+384,6037,California,33.85993750000006,-118.14865509999998,3700 E South St,Short Term Acute Care Hospital,Lakewood Regional Medical Center,Lakewood,CA
+385,6037,California,34.097533,-117.83453139999996,1350 W Covina Blvd,Short Term Acute Care Hospital,San Dimas Community Hospital,San Dimas,CA
+386,6037,California,34.1238,-117.8725,250 S Grand Ave,Short Term Acute Care Hospital,Emanate Health Foothill Presbyterian Hospital (FKA Foothill Presbyterian Hospital),Glendora,CA
+387,6037,California,34.02376820000006,-118.18414959999996,4060 Whittier Blvd,Short Term Acute Care Hospital,East Los Angeles Doctors Hospital,Los Angeles,CA
+388,6037,California,34.06151040000003,-118.20534219999996,1441 Eastlake Ave,Short Term Acute Care Hospital,USC Kenneth Norris Jr Cancer Hospital,Los Angeles,CA
+389,6037,California,34.01934980000004,-118.18654669999997,4081 E Olympic Blvd,Short Term Acute Care Hospital,Los Angeles Community Hospital,Los Angeles,CA
+390,6037,California,34.170384600000034,-118.58993589999994,5601 De Soto Ave,Short Term Acute Care Hospital,Woodland Hills Medical Center,Woodland Hills,CA
+391,6037,California,34.06205840000007,-118.20127379999995,1500 San Pablo St,Short Term Acute Care Hospital,Keck Hospital of USC (FKA USC University Hospital),Los Angeles,CA
+392,6037,California,34.220425800000044,-118.45654869999998,14850 Roscoe Blvd,Short Term Acute Care Hospital,Mission Community Hospital,Panorama City,CA
+393,6037,California,34.32590950000008,-118.44595719999997,14445 Olive View Dr,Short Term Acute Care Hospital,Olive View - UCLA Medical Center,Sylmar,CA
+394,6037,California,34.68849370000004,-118.15853019999996,1600 W Avenue J,Short Term Acute Care Hospital,Antelope Valley Hospital (FKA Antelope Valley Hospital Medical Center),Lancaster,CA
+395,6039,California,36.944024600000034,-120.04436619999996,1250 E Almond Ave,Short Term Acute Care Hospital,Madera Community Hospital,Madera,CA
+396,6041,California,38.004345200000046,-122.55495079999996,99 Montecillo Rd,Short Term Acute Care Hospital,Kaiser Permanente - San Rafael Medical Center,San Rafael,CA
+397,6041,California,37.94731520000005,-122.53603059999996,250 Bon Air Rd,Short Term Acute Care Hospital,MarinHealth Medical Center (FKA Marin General Hospital),Greenbrae,CA
+398,6041,California,38.099311500000056,-122.56036329999996,180 Rowland Way,Short Term Acute Care Hospital,Novato Community Hospital,Novato,CA
+399,6043,California,37.500397,-119.977678,5189 Hospital Rd,Critical Access Hospital,John C Fremont Healthcare District,Mariposa,CA
+400,6045,California,39.38994260000004,-123.33894039999996,1 Marcela Dr,Critical Access Hospital,Adventist Health Howard Memorial (FKA Frank R Howard Memorial Hospital),Willits,CA
+401,6045,California,39.4325,-123.8015,700 River Dr,Critical Access Hospital,Adventist Health Mendocino Coast (AKA Mendocino Coast District Hospital),Fort Bragg,CA
+402,6045,California,39.15306520000007,-123.2028906,275 Hospital Dr,Short Term Acute Care Hospital,Adventist Health Ukiah Valley (FKA Ukiah Valley Medical Center),Ukiah,CA
+403,6047,California,37.34014110000004,-120.4671866,333 Mercy Ave,Short Term Acute Care Hospital,Mercy Medical Center Merced,Merced,CA
+404,6047,California,37.06409340000005,-120.85913559999996,520 West I St,Short Term Acute Care Hospital,Memorial Hospital Los Banos,Los Banos,CA
+405,6049,California,41.5332,-120.1718,741 Main St,Critical Access Hospital,Surprise Valley Community Hospital,Cedarville,CA
+406,6053,California,36.65913520000004,-121.64594229999994,450 E Romie Ln,Short Term Acute Care Hospital,Salinas Valley Memorial Hospital,Salinas,CA
+407,6053,California,36.69666880000005,-121.63308869999996,1441 Constitution Blvd,Short Term Acute Care Hospital,Natividad Medical Center,Salinas,CA
+408,6053,California,36.57856090000007,-121.91340609999996,23625 Holman Hwy,Short Term Acute Care Hospital,Community Hospital of the Monterey Peninsula (AKA Montage Health),Monterey,CA
+409,6053,California,36.206236700000034,-121.13282239999997,300 Canal St,Critical Access Hospital,Mee Memorial Hospital (FKA George L Mee Memorial Hospital),King City,CA
+410,6055,California,38.324482,-122.29710939999995,1000 Trancas St,Short Term Acute Care Hospital,Queen of the Valley Medical Center,Napa,CA
+411,6055,California,38.54255010000003,-122.47482679999996,10 Woodland Rd,Short Term Acute Care Hospital,Adventist Health St Helena (FKA St Helena Hospital - Napa Valley),Saint Helena,CA
+412,6057,California,39.22809120000005,-121.0476642,155 Glasson Way,Short Term Acute Care Hospital,Sierra Nevada Memorial Hospital,Grass Valley,CA
+413,6057,California,39.33,-120.18,10121 Pine Ave,Critical Access Hospital,Tahoe Forest Hospital,Truckee,CA
+414,6059,California,33.894345100000066,-117.92722009999994,101 E Valencia Mesa Dr,Short Term Acute Care Hospital,St Jude Medical Center,Fullerton,CA
+415,6059,California,33.782044100000064,-117.86542449999996,1100 W Stewart Dr,Short Term Acute Care Hospital,St Joseph Hospital Orange,Orange,CA
+416,6059,California,33.84817510000005,-117.93452639999998,1111 W La Palma Ave,Short Term Acute Care Hospital,AHMC Anaheim Regional Medical Center,Anaheim,CA
+417,6059,California,33.624742800000035,-117.93004679999996,1 Hoag Dr,Short Term Acute Care Hospital,Hoag Hospital Newport Beach,Newport Beach,CA
+418,6059,California,33.775007,-117.91290759999998,12601 Garden Grove Blvd,Short Term Acute Care Hospital,Garden Grove Hospital Medical Center,Garden Grove,CA
+419,6059,California,33.786112,-117.88798029999998,101 The City Dr S,Short Term Acute Care Hospital,UCI Medical Center (FKA UC Irvine Medical Center),Orange,CA
+420,6059,California,33.70364,-117.986656,17772 Beach Blvd,Short Term Acute Care Hospital,Huntington Beach Hospital,Huntington Beach,CA
+421,6059,California,33.71518530000003,-117.93606719999995,17100 Euclid St,Short Term Acute Care Hospital,Fountain Valley Regional Hospital & Medical Center,Fountain Valley,CA
+422,6059,California,33.561015300000065,-117.66539369999998,27700 Medical Center Rd,Short Term Acute Care Hospital,Mission Hospital Mission Viejo,Mission Viejo,CA
+423,6059,California,33.651827500000024,-117.91206909999994,301 Victoria St,Short Term Acute Care Hospital,College Hospital Costa Mesa,Costa Mesa,CA
+424,6059,California,33.804525400000045,-118.0669994,3751 Katella Ave,Short Term Acute Care Hospital,Los Alamitos Medical Center,Los Alamitos,CA
+425,6037,California,34.05770730000006,-118.20797789999996,2051 Marengo St,Short Term Acute Care Hospital,LAC & USC Medical Center,Los Angeles,CA
+426,6037,California,33.83,-118.33,1000 W Carson St,Short Term Acute Care Hospital,Harbor - UCLA Medical Center,Torrance,CA
+427,6059,California,33.82522170000004,-117.9950032,3033 W Orange Ave,Short Term Acute Care Hospital,West Anaheim Medical Center,Anaheim,CA
+428,6059,California,33.70046640000004,-117.95574519999997,18111 Brookhurst St,Short Term Acute Care Hospital,Orange Coast Medical Center (FKA Orange Coast Memorial Medical Center),Fountain Valley,CA
+429,6059,California,33.887082200000066,-117.843323,1301 N Rose Dr,Short Term Acute Care Hospital,Placentia-Linda Hospital,Placentia,CA
+430,6059,California,33.847533,-118.038414,7901 Walker St,Short Term Acute Care Hospital,La Palma Intercommunity Hospital,La Palma,CA
+431,6059,California,33.85208230000006,-117.84413249999994,3440 E La Palma Ave,Short Term Acute Care Hospital,Orange County - Anaheim Medical Center,Anaheim,CA
+432,6059,California,33.6089,-117.7087,24451 Health Center Dr,Short Term Acute Care Hospital,Saddleback Medical Center (FKA Saddleback Memorial Medical Center - Laguna Hills),Laguna Hills,CA
+433,6059,California,33.81983440000005,-117.90945119999998,1025 S Anaheim Blvd,Short Term Acute Care Hospital,Anaheim Global Medical Center (FKA Western Medical Center Hospital Anaheim),Anaheim,CA
+434,6059,California,33.788612400000034,-117.8262888,2601 E Chapman Ave,Short Term Acute Care Hospital,Chapman Global Medical Center (FKA Chapman Medical Center),Orange,CA
+435,6059,California,33.754283900000075,-117.83280059999998,1001 N Tustin Ave,Short Term Acute Care Hospital,Orange County Global Medical Center (FKA Western Medical Center Santa Ana),Santa Ana,CA
+436,6059,California,33.71105830000005,-117.88519019999995,2701 S Bristol St,Short Term Acute Care Hospital,South Coast Global Medical Center (FKA Coastal Communities Hospital),Santa Ana,CA
+437,6037,California,33.92933190000008,-118.158594,7601 Imperial Hwy,Short Term Acute Care Hospital,Rancho Los Amigos National Rehabilitation Center,Downey,CA
+438,6061,California,38.89656540000004,-121.07689009999996,11815 Education St,Short Term Acute Care Hospital,Sutter Auburn Faith Hospital,Auburn,CA
+439,6061,California,38.766251100000034,-121.24922339999996,1 Medical Plaza Pl,Short Term Acute Care Hospital,Sutter Roseville Medical Center,Roseville,CA
+440,6063,California,39.80563860000007,-120.46231889999996,500 1st Ave,Critical Access Hospital,Eastern Plumas Hospital - Portola Campus,Portola,CA
+441,6063,California,39.93893620000006,-120.96213189999996,1065 Bucks Lake Rd,Critical Access Hospital,Plumas District Hospital,Quincy,CA
+442,6063,California,40.273395,-121.210968,130 Brentwood Dr,Critical Access Hospital,Seneca Healthcare District Hospital,Chester,CA
+443,6065,California,33.89613840000004,-117.18609809999998,27300 Iris Ave,Short Term Acute Care Hospital,Moreno Valley Medical Center,Moreno Valley,CA
+444,6065,California,33.71897720000004,-117.16815179999998,28400 McCall Blvd,Short Term Acute Care Hospital,Menifee Global Medical Center (FKA Menifee Valley Medical Center),Menifee,CA
+445,6065,California,33.90462140000005,-117.46904839999996,10800 Magnolia Ave,Short Term Acute Care Hospital,Riverside Medical Center,Riverside,CA
+446,6065,California,33.76349860000005,-116.40541049999996,39000 Bob Hope Dr,Short Term Acute Care Hospital,Eisenhower Health,Rancho Mirage,CA
+447,6065,California,33.706110900000056,-116.23535269999996,47111 Monroe St,Short Term Acute Care Hospital,JFK Memorial Hospital,Indio,CA
+448,6065,California,33.61294810000004,-114.59507169999996,250 N 1st St,Short Term Acute Care Hospital,Palo Verde Hospital,Blythe,CA
+449,6065,California,33.75037080000004,-116.96013029999996,1117 E Devonshire Ave,Short Term Acute Care Hospital,Hemet Valley Medical Center,Hemet,CA
+450,6065,California,33.87277950000004,-117.56831329999994,800 S Main St,Short Term Acute Care Hospital,Corona Regional Medical Center - Main Street Campus,Corona,CA
+451,6065,California,33.91024710000005,-117.19894639999995,26520 Cactus Ave,Short Term Acute Care Hospital,Riverside University Health System Medical Center (FKA Riverside County Regional Medical Center),Moreno Valley,CA
+452,6065,California,33.838731,-116.543459,1150 N Indian Canyon Dr,Short Term Acute Care Hospital,Desert Regional Medical Center,Palm Springs,CA
+453,6065,California,33.92696820000003,-117.43981659999996,3865 Jackson St,Short Term Acute Care Hospital,Parkview Community Hospital Medical Center,Riverside,CA
+454,6065,California,33.931687400000044,-116.94614719999998,600 N Highland Springs Ave,Short Term Acute Care Hospital,San Gorgonio Memorial Hospital,Banning,CA
+455,6065,California,33.97722130000005,-117.3815694,4445 Magnolia Ave,Short Term Acute Care Hospital,Riverside Community Hospital,Riverside,CA
+456,6067,California,38.56981810000008,-121.45366479999996,4001 J St,Short Term Acute Care Hospital,Mercy General Hospital,Sacramento,CA
+457,6067,California,38.57112990000008,-121.46949489999996,2825 Capitol Ave,Short Term Acute Care Hospital,Sutter Medical Center - Ose Adams Medical Pavilion (FKA Sutter General Hospital),Sacramento,CA
+458,6067,California,38.57306010000008,-121.29551549999996,10535 Hospital Way,VA Hospital,VA Northern California Health Care System Valley Division - Sacramento VA Medical Center,Mather,CA
+459,6067,California,38.60138350000005,-121.393137,2025 Morse Ave,Short Term Acute Care Hospital,Kaiser Permanente - Sacramento Medical Center,Sacramento,CA
+460,6067,California,38.670333,-121.14584609999996,1650 Creekside Dr,Short Term Acute Care Hospital,Mercy Hospital of Folsom,Folsom,CA
+461,6067,California,38.66933720000003,-121.31368219999996,6501 Coyle Ave,Short Term Acute Care Hospital,Mercy San Juan Medical Center,Carmichael,CA
+462,6067,California,38.46991040000006,-121.42164119999995,6600 Bruceville Rd,Short Term Acute Care Hospital,Kaiser Permanente - South Sacramento Medical Center,Sacramento,CA
+463,6067,California,38.46317370000003,-121.41636379999994,7500 Hospital Dr,Short Term Acute Care Hospital,Methodist Hospital of Sacramento,Sacramento,CA
+464,6067,California,38.55490230000004,-121.45675049999994,2315 Stockton Blvd,Short Term Acute Care Hospital,University of California Davis Medical Center (AKA UC Davis Medical Center),Sacramento,CA
+465,6069,California,36.83389850000003,-121.3861055,911 Sunset Dr,Critical Access Hospital,Hazel Hawkins Memorial Hospital,Hollister,CA
+466,6071,California,34.89217130000003,-117.01669689999994,820 E Mountain View St,Short Term Acute Care Hospital,Barstow Community Hospital,Barstow,CA
+467,6071,California,34.54184760000004,-117.26556359999996,18300 Us Highway 18,Short Term Acute Care Hospital,St Mary Medical Center,Apple Valley,CA
+468,6071,California,34.049451900000065,-117.2641774,11234 Anderson St,Short Term Acute Care Hospital,Loma Linda University Medical Center,Loma Linda,CA
+469,6071,California,34.07405310000007,-117.351059,400 N Pepper Ave,Short Term Acute Care Hospital,Arrowhead Regional Medical Center,Colton,CA
+470,6071,California,34.13268060000007,-116.27618489999998,6601 White Feather Rd,Short Term Acute Care Hospital,Hi Desert Medical Center,Joshua Tree,CA
+471,6071,California,34.036537200000055,-117.20517409999997,350 Terracina Blvd,Short Term Acute Care Hospital,Redlands Community Hospital,Redlands,CA
+472,6071,California,34.10190410000007,-117.63743359999997,999 San Bernardino Rd,Short Term Acute Care Hospital,San Antonio Regional Hospital (FKA San Antonio Community Hospital),Upland,CA
+473,6071,California,34.131408700000065,-117.3217772,1805 Medical Center Dr,Short Term Acute Care Hospital,Community Hospital of San Bernardino,San Bernardino,CA
+474,6071,California,34.13483710000003,-117.27698829999996,2101 N Waterman Ave,Short Term Acute Care Hospital,St Bernardine Medical Center,San Bernardino,CA
+475,6071,California,34.072777200000075,-117.43561079999996,9961 Sierra Ave,Short Term Acute Care Hospital,Fontana Medical Center,Fontana,CA
+476,6071,California,34.02556420000008,-117.686109,5451 Walnut Ave,Short Term Acute Care Hospital,Chino Valley Medical Center,Chino,CA
+477,6071,California,34.24651110000008,-116.88849509999994,41870 Garstin Dr,Critical Access Hospital,Bear Valley Community Hospital (AKA Bear Valley Community Healthcare District),Big Bear Lake,CA
+478,6071,California,34.07711,-117.696588,5000 San Bernardino St,Short Term Acute Care Hospital,Montclair Hospital Medical Center,Montclair,CA
+479,6071,California,34.049982500000056,-117.24981219999997,11201 Benton St,VA Hospital,VA Loma Linda Healthcare System (AKA Jerry L Pettis Memorial Veterans Hospital),Loma Linda,CA
+480,6071,California,34.47213810000005,-117.29799449999996,16850 Bear Valley Rd,Short Term Acute Care Hospital,Desert Valley Hospital,Victorville,CA
+481,6071,California,34.528006600000026,-117.293868,15248 Eleventh St,Short Term Acute Care Hospital,Victor Valley Global Medical Center,Victorville,CA
+482,6071,California,34.83313570000007,-114.61767579999996,1401 Bailey Ave,Critical Access Hospital,Colorado River Medical Center,Needles,CA
+483,6071,California,34.2654,-117.1685,29101 Hospital Rd,Critical Access Hospital,Mountains Community Hospital,Lake Arrowhead,CA
+484,6073,California,32.79142710000008,-117.09513969999996,4647 Zion Ave,Short Term Acute Care Hospital,Kaiser Permanente Zion Medical Center,San Diego,CA
+485,6073,California,33.03690080000007,-117.28391259999997,354 Santa Fe Dr,Short Term Acute Care Hospital,Scripps Memorial Hospital Encinitas,Encinitas,CA
+486,6073,California,32.89677990000007,-117.24281359999998,10666 N Torrey Pines Rd,Short Term Acute Care Hospital,Scripps Green Hospital,La Jolla,CA
+487,6073,California,32.875129800000025,-117.23238809999998,3350 La Jolla Village Dr,VA Hospital,VA San Diego Healthcare System,San Diego,CA
+488,6073,California,32.77664150000004,-117.05731879999996,6655 Alvarado Rd,Short Term Acute Care Hospital,Alvarado Hospital Medical Center,San Diego,CA
+489,6073,California,32.996457200000066,-117.05610059999998,15615 Pomerado Rd,Short Term Acute Care Hospital,Palomar Medical Center Poway (FKA Pomerado Hospital),Poway,CA
+490,6073,California,33.12485950000007,-117.07582259999998,555 E Valley Pkwy,Short Term Acute Care Hospital,Palomar Medical Center Downtown Escondido (FKA Palomar Health Downtown Campus),Escondido,CA
+491,6073,California,33.18564840000005,-117.29043589999998,4002 Vista Way,Short Term Acute Care Hospital,Tri-City Medical Center,Oceanside,CA
+492,6073,California,32.75156560000005,-117.16039,4077 5th Ave,Short Term Acute Care Hospital,Scripps Mercy Hospital San Diego,San Diego,CA
+493,6073,California,32.79967590000007,-117.15460009999998,7901 Frost St,Short Term Acute Care Hospital,Sharp Memorial Hospital,San Diego,CA
+494,6073,California,32.69444710000005,-117.168661,250 Prospect Pl,Short Term Acute Care Hospital,Sharp Coronado Hospital,Coronado,CA
+495,6073,California,32.61888340000007,-117.0226353,751 Medical Center Ct,Short Term Acute Care Hospital,Sharp Chula Vista Medical Center,Chula Vista,CA
+496,6073,California,32.88515770000004,-117.22554259999998,9888 Genesee Ave,Short Term Acute Care Hospital,Scripps Memorial Hospital La Jolla,La Jolla,CA
+497,6073,California,32.685113200000046,-117.08288519999996,2400 E 4th St,Short Term Acute Care Hospital,Paradise Valley Hospital,National City,CA
+498,6073,California,32.75426980000003,-117.166135,200 W Arbor Dr,Short Term Acute Care Hospital,UC San Diego Medical Center - Hillcrest,San Diego,CA
+499,6073,California,32.78101250000003,-117.00741259999997,5555 Grossmont Center Dr,Short Term Acute Care Hospital,Sharp Grossmont Hospital,La Mesa,CA
+500,6075,California,37.74770250000006,-122.42066719999995,3555 Cesar Chavez,Short Term Acute Care Hospital,California Pacific Medical Center - Mission Bernal Campus (FKA California Pacific Medical Center - St Lukes Campus),San Francisco,CA
+501,6075,California,37.768193,-122.435709,45 Castro St,Short Term Acute Care Hospital,California Pacific Medical Center - Davies Campus,San Francisco,CA
+502,6075,California,37.75572650000004,-122.40473809999996,1001 Potrero Ave,Short Term Acute Care Hospital,Zuckerberg San Francisco General Hospital (FKA San Francisco General Hospital),San Francisco,CA
+503,6075,California,37.78245880000003,-122.4430966,2425 Geary Blvd,Short Term Acute Care Hospital,Kaiser Permanente - San Francisco Medical Center,San Francisco,CA
+504,6075,California,37.78937990000003,-122.41672939999997,900 Hyde St,Short Term Acute Care Hospital,Saint Francis Memorial Hospital,San Francisco,CA
+505,6075,California,37.74888960000004,-122.457074,375 Laguna Honda Blvd,Short Term Acute Care Hospital,Laguna Honda Hospital and Rehabilitation Center,San Francisco,CA
+506,6075,California,37.77407490000007,-122.45388929999996,450 Stanyan St,Short Term Acute Care Hospital,St Marys Medical Center,San Francisco,CA
+507,6075,California,37.76455420000008,-122.45725079999994,400 Parnassus Ave,Short Term Acute Care Hospital,UCSF Helen Diller Medical Center at Parnassus Heights,San Francisco,CA
+508,6075,California,37.79554060000004,-122.40912989999998,845 Jackson St,Short Term Acute Care Hospital,Chinese Hospital,San Francisco,CA
+509,6075,California,37.78200650000008,-122.50505109999996,4150 Clement St,VA Hospital,San Francisco VA Health Care System - San Francisco VA Medical Center,San Francisco,CA
+510,6077,California,38.12146790000003,-121.2869098,975 S Fairmont Ave,Short Term Acute Care Hospital,Adventist Health Lodi Memorial,Lodi,CA
+511,6077,California,37.79809130000007,-121.24601239999998,1777 W Yosemite Ave,Short Term Acute Care Hospital,Kaiser Permanente - Manteca Medical Center,Manteca,CA
+512,6077,California,37.88671350000004,-121.28263139999996,500 W Hospital Rd,Short Term Acute Care Hospital,San Joaquin General Hospital,French Camp,CA
+513,6077,California,37.96162190000007,-121.30099259999996,525 W Acacia St,Short Term Acute Care Hospital,Dameron Hospital,Stockton,CA
+514,6077,California,37.96988310000006,-121.28866689999997,1800 N California St,Short Term Acute Care Hospital,St Josephs Medical Center,Stockton,CA
+515,6077,California,37.80155,-121.197502,1205 E North St,Short Term Acute Care Hospital,Doctors Hospital of Manteca,Manteca,CA
+516,6077,California,37.74401160000008,-121.43430739999997,1420 N Tracy Blvd,Short Term Acute Care Hospital,Sutter Tracy Community Hospital,Tracy,CA
+517,6079,California,35.27817090000008,-120.65115579999996,1911 Johnson Ave,Short Term Acute Care Hospital,French Hospital Medical Center,San Luis Obispo,CA
+518,6079,California,35.55497610000003,-120.71936759999994,1100 Las Tablas Rd,Short Term Acute Care Hospital,Twin Cities Community Hospital,Templeton,CA
+519,6079,California,35.29224110000007,-120.665834,1010 Murray Ave,Short Term Acute Care Hospital,Sierra Vista Regional Medical Center (FKA Sierra Vista Regional Medical Center),San Luis Obispo,CA
+520,6079,California,35.11363760000006,-120.59077219999996,345 S Halcyon Rd,Short Term Acute Care Hospital,Arroyo Grande Community Hospital,Arroyo Grande,CA
+521,6081,California,37.59210250000007,-122.38334229999998,1501 Trousdale Dr,Short Term Acute Care Hospital,Mills-Peninsula Medical Center,Burlingame,CA
+522,6081,California,37.48911850000008,-122.22515479999998,1100 Veterans Blvd,Short Term Acute Care Hospital,Kaiser Permanente - Redwood City Medical Center,Redwood City,CA
+523,6081,California,37.47954230000005,-122.25455619999995,170 Alameda De Las Pulgas,Short Term Acute Care Hospital,Sequoia Hospital,Redwood City,CA
+524,6081,California,37.68013470000005,-122.4740564,1900 Sullivan Ave,Short Term Acute Care Hospital,Seton Medical Center,Daly City,CA
+525,6081,California,37.531268200000056,-122.29929819999997,222 W 39th Ave,Short Term Acute Care Hospital,San Mateo Medical Center (AKA San Mateo County Health System),San Mateo,CA
+526,6081,California,37.659206,-122.4391154,1200 El Camino Real,Short Term Acute Care Hospital,Kaiser Permanente - South San Francisco Medical Center,South San Francisco,CA
+527,6083,California,34.64113750000007,-120.43951909999998,1515 E Ocean Ave,Short Term Acute Care Hospital,Lompoc Valley Medical Center Hospital,Lompoc,CA
+528,6083,California,34.95092010000008,-120.41318529999997,1400 E Church St,Short Term Acute Care Hospital,Marian Regional Medical Center,Santa Maria,CA
+529,6083,California,34.43341940000005,-119.81041039999997,351 S Patterson Ave,Short Term Acute Care Hospital,Goleta Valley Cottage Hospital,Goleta,CA
+530,6083,California,34.42990660000004,-119.72336009999998,400 W Pueblo St,Short Term Acute Care Hospital,Santa Barbara Cottage Hospital,Santa Barbara,CA
+531,6083,California,34.60187640000004,-120.12618019999996,2050 Viborg Rd,Critical Access Hospital,Santa Ynez Valley Cottage Hospital,Solvang,CA
+532,6085,California,37.43635610000007,-122.17504889999998,725 Welch Rd,Childrens Hospital,Lucile Packard Childrens Hospital Stanford (AKA Stanford Childrens Health),Palo Alto,CA
+533,6085,California,37.25174750000008,-121.94668889999996,2425 Samaritan Dr,Short Term Acute Care Hospital,Good Samaritan Hospital,San Jose,CA
+534,6085,California,37.43435510000006,-122.17709089999994,500 Pasteur Dr,Short Term Acute Care Hospital,Stanford Hospital,Palo Alto,CA
+535,6085,California,37.23980410000007,-121.8002512,250 Hospital Pkwy,Short Term Acute Care Hospital,Kaiser Permanente - San Jose Medical Center,San Jose,CA
+536,6085,California,37.036716700000056,-121.57116079999996,9400 N Name Uno,Short Term Acute Care Hospital,St Louise Regional Hospital,Gilroy,CA
+537,6085,California,37.40540730000004,-122.14000889999994,3801 Miranda Ave,VA Hospital,VA Palo Alto Health Care System - Palo Alto Division,Palo Alto,CA
+538,6085,California,37.36947720000006,-122.07991169999995,2500 Grant Rd,Short Term Acute Care Hospital,El Camino Hospital - Mountain View Campus,Mountain View,CA
+539,6085,California,37.335609600000055,-121.99884909999996,700 Lawrence Expy,Short Term Acute Care Hospital,Kaiser Permanente - Santa Clara Medical Center,Santa Clara,CA
+540,6085,California,37.36220570000006,-121.84896669999996,225 N Jackson Ave,Short Term Acute Care Hospital,Regional Medical Center of San Jose,San Jose,CA
+541,6085,California,37.32775520000007,-121.93837889999998,2105 Forest Ave,Short Term Acute Care Hospital,OConnor Hospital,San Jose,CA
+542,6085,California,37.31285690000004,-121.9332672,751 S Bascom Ave,Short Term Acute Care Hospital,Santa Clara Valley Medical Center,San Jose,CA
+543,6087,California,36.92664720000005,-121.79283589999994,75 Neilson St,Short Term Acute Care Hospital,Watsonville Community Hospital,Watsonville,CA
+544,6087,California,36.990166300000055,-121.98366689999996,1555 Soquel Dr,Short Term Acute Care Hospital,Dominican Hospital,Santa Cruz,CA
+545,6087,California,36.987682,-121.97746039999998,2900 Chanticleer Ave,Short Term Acute Care Hospital,Sutter Maternity & Surgery Center of Santa Cruz,Santa Cruz,CA
+546,6089,California,40.58555410000002,-122.38775729999998,1100 Butte St,Short Term Acute Care Hospital,Shasta Regional Medical Center,Redding,CA
+547,6089,California,40.58590870000006,-122.416861,2900 Eureka Way,Short Term Acute Care Hospital,Patients Hospital of Redding,Redding,CA
+548,6089,California,40.571437,-122.39606619999996,2175 Rosaline Ave,Short Term Acute Care Hospital,Mercy Medical Center Redding,Redding,CA
+549,6089,California,41.023554800000056,-121.42389659999998,43563 Hwy 299 E,Critical Access Hospital,Mayers Memorial Hospital,Fall River Mills,CA
+550,6093,California,41.31866140000005,-122.32119939999995,914 Pine St,Critical Access Hospital,Mercy Medical Center Mt Shasta,Mount Shasta,CA
+551,6093,California,41.71932010000006,-122.64569429999996,444 Bruce St,Critical Access Hospital,Fairchild Medical Center,Yreka,CA
+552,6095,California,38.12767,-122.24844319999994,975 Sereno Dr,Short Term Acute Care Hospital,Kaiser Permanente - Vallejo Medical Center,Vallejo,CA
+553,6095,California,38.13128880000005,-122.23733729999998,300 Hospital Dr,Short Term Acute Care Hospital,Sutter Solano Medical Center,Vallejo,CA
+554,6095,California,38.26200910000006,-122.0473434,1200 B Gale Wilson Blvd,Short Term Acute Care Hospital,NorthBay Medical Center,Fairfield,CA
+555,6097,California,38.39703120000007,-122.8190115,501 Petaluma Ave,Long Term Acute Care Hospital,Sonoma Specialty Hospital (FKA Sonoma West Medical Center Palm Drive Hospital),Sebastopol,CA
+556,6097,California,38.47212,-122.72701409999996,401 Bicentennial Way,Short Term Acute Care Hospital,Kaiser Permanente - Santa Rosa Medical Center,Santa Rosa,CA
+557,6097,California,38.28815030000004,-122.46568759999997,347 Andrieux St,Short Term Acute Care Hospital,Sonoma Valley Hospital,Sonoma,CA
+558,6097,California,38.25459,-122.63165369999996,400 N Mcdowell Blvd,Short Term Acute Care Hospital,Petaluma Valley Hospital,Petaluma,CA
+559,6097,California,38.443758900000034,-122.7011068,1165 Montgomery Dr,Short Term Acute Care Hospital,Santa Rosa Memorial Hospital,Santa Rosa,CA
+560,6097,California,38.52870540000004,-122.723816,30 Mark West Springs Rd,Short Term Acute Care Hospital,Sutter Santa Rosa Regional Hospital (FKA Sutter Medical Center of Santa Rosa),Santa Rosa,CA
+561,6097,California,38.627093,-122.86432509999996,1375 University St,Critical Access Hospital,Healdsburg District Hospital,Healdsburg,CA
+562,6099,California,37.51176260000005,-120.83895029999996,825 Delbon Ave,Short Term Acute Care Hospital,Emanuel Medical Center,Turlock,CA
+563,6099,California,37.75754370000004,-120.86099839999996,350 S Oak Ave,Short Term Acute Care Hospital,Oak Valley District Hospital,Oakdale,CA
+564,6099,California,37.66479780000003,-120.95832209999998,1421 Oakdale Rd,Short Term Acute Care Hospital,Stanislaus Surgical Hospital,Modesto,CA
+565,6099,California,37.668701,-120.97457549999996,1700 Coffee Rd,Short Term Acute Care Hospital,Memorial Medical Center,Modesto,CA
+566,6099,California,37.66594980000008,-120.9974006,1441 Florida Ave,Short Term Acute Care Hospital,Doctors Medical Center Modesto,Modesto,CA
+567,6101,California,39.13181750000007,-121.61343329999994,455 Plumas Blvd,Short Term Acute Care Hospital,Sutter Surgical Hospital North Valley,Yuba City,CA
+568,6103,California,40.14855190000003,-122.21901959999995,2550 Sister Mary Columba Dr,Short Term Acute Care Hospital,St Elizabeth Community Hospital,Red Bluff,CA
+569,6105,California,40.7399,-122.9419,60 Easter Ave,Critical Access Hospital,Trinity Hospital,Weaverville,CA
+570,6107,California,36.328572,-119.29495819999994,400 W Mineral King Ave,Short Term Acute Care Hospital,Kaweah Delta Medical Center,Visalia,CA
+571,6107,California,36.22113290000004,-119.33849209999994,869 N Cherry St,Short Term Acute Care Hospital,Adventist Health Tulare (FKA Tulare Regional Medical Center),Tulare,CA
+572,6107,California,36.06877680000008,-119.02720339999996,465 W Putnam Ave,Short Term Acute Care Hospital,Sierra View Medical Center (FKA Sierra View District Hospital),Porterville,CA
+573,6109,California,37.97723380000008,-120.3712182,1000 Greenley Rd,Short Term Acute Care Hospital,Adventist Health Sonora (FKA Sonora Regional Medical Center),Sonora,CA
+574,6111,California,34.289206500000034,-118.745137,2975 Sycamore Dr,Short Term Acute Care Hospital,Adventist Health Simi Valley (FKA Simi Valley Hospital & Health Care Services),Simi Valley,CA
+575,6111,California,34.21664240000007,-119.15564839999996,1600 N Rose Ave,Short Term Acute Care Hospital,St Johns Regional Medical Center,Oxnard,CA
+576,6111,California,34.27719940000003,-119.25298319999996,300 Hillmont Ave,Short Term Acute Care Hospital,Ventura County Medical Center,Ventura,CA
+577,6111,California,34.24347880000005,-119.0200789,2309 Antonio Ave,Short Term Acute Care Hospital,St Johns Pleasant Valley Hospital,Camarillo,CA
+578,6111,California,34.27449910000007,-119.25772889999996,147 N Brent St,Short Term Acute Care Hospital,Community Memorial Hospital,Ventura,CA
+579,6111,California,34.20677960000006,-118.8830898,215 W Janss Rd,Short Term Acute Care Hospital,Los Robles Health System - Los Robles Regional Medical Center,Thousand Oaks,CA
+580,6111,California,34.44291320000008,-119.26440669999994,1306 Maricopa Hwy,Critical Access Hospital,Ojai Valley Community Hospital,Ojai,CA
+581,6113,California,38.562604400000055,-121.77089589999996,2000 Sutter Pl,Short Term Acute Care Hospital,Sutter Davis Hospital,Davis,CA
+582,6113,California,38.66409020000003,-121.79209129999998,1325 Cottonwood St,Short Term Acute Care Hospital,Woodland Memorial Hospital,Woodland,CA
+583,6115,California,39.138241,-121.59437249999996,726 4th St,Short Term Acute Care Hospital,Rideout - Adventist Health and Rideout (FKA Rideout Memorial Hospital),Marysville,CA
+584,8001,Colorado,39.963935400000025,-104.768639,1600 Prairie Center Pkwy,Short Term Acute Care Hospital,Platte Valley Medical Center,Brighton,CO
+585,8001,Colorado,39.742629400000055,-104.84202879999998,12605 E 16th Ave,Short Term Acute Care Hospital,UCHealth University of Colorado Hospital,Aurora,CO
+586,8001,Colorado,39.86355510000004,-104.98570889999996,9191 Grant St,Short Term Acute Care Hospital,North Suburban Medical Center,Thornton,CO
+587,8001,Colorado,39.74224950000007,-104.83493109999996,13123 E 16th Ave,Childrens Hospital,Childrens Hospital Colorado - Anschutz Medical Campus,Aurora,CO
+588,8003,Colorado,37.47247870000007,-105.882886,106 Blanca Ave,Short Term Acute Care Hospital,SLV Health Regional Medical Center,Alamosa,CO
+589,8005,Colorado,39.68860370000005,-104.83174179999996,1501 S Potomac St,Short Term Acute Care Hospital,The Medical Center of Aurora - Main Campus,Aurora,CO
+590,8005,Colorado,39.65417030000003,-104.98071769999996,501 E Hampden Ave,Short Term Acute Care Hospital,Swedish Medical Center,Englewood,CO
+591,8035,Colorado,39.529099,-104.871212,10101 Ridgegate Pkwy,Short Term Acute Care Hospital,Sky Ridge Medical Center,Lone Tree,CO
+592,8005,Colorado,39.57628840000007,-104.986104,7700 S Broadway,Short Term Acute Care Hospital,Littleton Adventist Hospital,Littleton,CO
+593,8007,Colorado,37.25214290000002,-107.079137,95 S Pagosa Blvd,Critical Access Hospital,Pagosa Springs Medical Center (FKA Pagosa Mountain Hospital),Pagosa Springs,CO
+594,8013,Colorado,39.970519,-105.08652149999996,200 Exempla Cir,Short Term Acute Care Hospital,Good Samaritan Medical Center (FKA Exempla Good Samaritan Medical Center LLC),Lafayette,CO
+595,8013,Colorado,39.951933300000064,-105.1517462,100 Health Park Dr,Short Term Acute Care Hospital,Avista Adventist Hospital,Louisville,CO
+596,8013,Colorado,40.18221950000003,-105.12607829999996,1950 Mountain View Ave,Short Term Acute Care Hospital,Longmont United Hospital,Longmont,CO
+597,8015,Colorado,38.54315580000008,-106.0088247,1000 Rush Dr,Critical Access Hospital,Heart of the Rockies Regional Medical Center,Salida,CO
+598,8017,Colorado,38.8257,-102.3555,602 N 6th St W,Short Term Acute Care Hospital,Keefe Memorial Hospital,Cheyenne Wells,CO
+599,8029,Colorado,38.74539990000005,-108.047,1501 E 3rd St,Short Term Acute Care Hospital,Delta County Memorial Hospital,Delta,CO
+600,8031,Colorado,39.73907360000004,-104.94112119999994,1400 Jackson St,Short Term Acute Care Hospital,National Jewish Health,Denver,CO
+601,8031,Colorado,39.732185,-104.93404969999996,4567 E 9th Ave,Short Term Acute Care Hospital,Rose Medical Center,Denver,CO
+602,8031,Colorado,39.670038600000055,-104.97481949999997,2525 S Downing St,Short Term Acute Care Hospital,Porter Adventist Hospital,Denver,CO
+603,8031,Colorado,39.74618820000006,-104.97172679999994,1375 E 19th Ave,Short Term Acute Care Hospital,Saint Joseph Hospital (FKA Exempla St Joseph Hospital),Denver,CO
+604,8031,Colorado,39.72824040000006,-104.99108009999998,777 Bannock St,Short Term Acute Care Hospital,Denver Health Main Campus,Denver,CO
+605,8031,Colorado,39.74704760000003,-104.9665169,1719 E 19th Ave,Short Term Acute Care Hospital,Presbyterian/St Lukes Medical Center,Denver,CO
+606,8059,Colorado,39.71646510000005,-105.1294246,11600 W 2nd Pl,Short Term Acute Care Hospital,St Anthony Hospital,Lakewood,CO
+607,8035,Colorado,39.548613300000056,-104.7710383,9395 Crown Crest Blvd,Short Term Acute Care Hospital,Parker Adventist Hospital,Parker,CO
+608,8037,Colorado,39.64352080000003,-106.38226629999996,181 W Meadow Dr,Short Term Acute Care Hospital,Vail Health (FKA Vail Valley Medical Center),Vail,CO
+609,8041,Colorado,38.839413,-104.7993967,1400 E Boulder St,Short Term Acute Care Hospital,UCHealth Memorial Hospital Central,Colorado Springs,CO
+610,8041,Colorado,38.865536700000064,-104.821745,2222 N Nevada Ave,Short Term Acute Care Hospital,Penrose Hospital,Colorado Springs,CO
+611,8043,Colorado,38.455663300000026,-105.229732,1338 Phay Ave,Critical Access Hospital,St Thomas More Hospital,Canon City,CO
+612,8045,Colorado,39.53249530000005,-107.32150509999995,1906 Blake Ave,Short Term Acute Care Hospital,Valley View Hospital,Glenwood Springs,CO
+613,8045,Colorado,39.52111310000004,-107.7700056,501 Airport Rd,Critical Access Hospital,Grand River Medical Center (AKA Grand River Health),Rifle,CO
+614,8051,Colorado,38.55186250000003,-106.9249511,711 N Taylor St,Critical Access Hospital,Gunnison Valley Health,Gunnison,CO
+615,8055,Colorado,37.60034380000008,-104.83175969999996,23500 Us Highway 160,Critical Access Hospital,Spanish Peaks Regional Health Center,Walsenburg,CO
+616,8001,Colorado,39.95643730000006,-104.99119049999996,14300 Orchard Pkwy,Short Term Acute Care Hospital,St Anthony North Health Campus,Westminster,CO
+617,8059,Colorado,39.76811210000005,-105.08989879999996,8300 W 38th Ave,Short Term Acute Care Hospital,Lutheran Medical Center (FKA Exempla Lutheran Medical Center),Wheat Ridge,CO
+618,8063,Colorado,39.30300650000004,-102.27057579999996,286 16th St,Critical Access Hospital,Kit Carson County Memorial Hospital,Burlington,CO
+619,8065,Colorado,39.24488990000003,-106.30151939999996,822 W 4th St,Critical Access Hospital,St Vincent General Hospital District,Leadville,CO
+620,8067,Colorado,37.24807060000006,-107.87088269999998,575 Rivergate Ln,Short Term Acute Care Hospital,Animas Surgical Hospital,Durango,CO
+621,8067,Colorado,37.23610180000003,-107.82556179999996,1010 Three Springs Blvd,Short Term Acute Care Hospital,Mercy Regional Medical Center,Durango,CO
+622,8069,Colorado,40.41323650000004,-105.05132809999998,2000 Boise Ave,Short Term Acute Care Hospital,McKee Medical Center,Loveland,CO
+623,8069,Colorado,40.57164840000007,-105.05665469999995,1024 S Lemay Ave,Short Term Acute Care Hospital,UCHealth Poudre Valley Hospital,Fort Collins,CO
+624,8069,Colorado,40.37141990000004,-105.51501659999995,555 Prospect Ave,Critical Access Hospital,Estes Park Health (FKA Estes Park Medical Center),Estes Park,CO
+625,8069,Colorado,40.41578160000006,-104.9972211,2500 Rocky Mountain Ave,Short Term Acute Care Hospital,UCHealth Medical Center of the Rockies,Loveland,CO
+626,8071,Colorado,37.17329490000003,-104.48756569999996,410 Benedicta Ave,Critical Access Hospital,Mt San Rafael Hospital,Trinidad,CO
+627,8075,Colorado,40.61239960000006,-103.22108429999996,615 Fairhurst St,Short Term Acute Care Hospital,Sterling Regional MedCenter,Sterling,CO
+628,8077,Colorado,39.076286,-108.541018,2121 North Ave,VA Hospital,VA Western Colorado Health Care System (AKA Grand Junction VA Medical Center),Grand Junction,CO
+629,8077,Colorado,39.10519720000008,-108.6152656,2351 G Rd,Short Term Acute Care Hospital,Community Hospital (AKA Colorado West Healthcare System),Grand Junction,CO
+630,8077,Colorado,39.090481100000034,-108.5627055,2635 N 7th St,Short Term Acute Care Hospital,St Marys Medical Center (FKA St Marys Hospital and Medical Center),Grand Junction,CO
+631,8081,Colorado,40.51865460000005,-107.58021559999996,750 Hospital Loop,Critical Access Hospital,Memorial Regional Health (FKA Memorial Hospital at Craig),Craig,CO
+632,8083,Colorado,37.36215960000004,-108.57460919999994,1311 N Mildred Rd,Critical Access Hospital,Southwest Memorial Hospital,Cortez,CO
+633,8085,Colorado,38.48002040000006,-107.86893879999997,800 S 3rd St,Short Term Acute Care Hospital,Montrose Memorial Hospital,Montrose,CO
+634,8087,Colorado,40.259718700000064,-103.795364,1000 Lincoln St,Short Term Acute Care Hospital,Colorado Plains Medical Center,Fort Morgan,CO
+635,8087,Colorado,40.25567860000007,-103.64947459999996,2400 Edison St,Critical Access Hospital,East Morgan County Hospital,Brush,CO
+636,8089,Colorado,37.97880370000007,-103.54881779999994,1100 Carson Ave,Critical Access Hospital,Arkansas Valley Regional Medical Center,La Junta,CO
+637,8095,Colorado,40.57926050000003,-102.29029419999996,1001 E Johnson St,Critical Access Hospital,Melissa Memorial Hospital (AKA East Phillips County Hospital District),Holyoke,CO
+638,8097,Colorado,39.19054450000005,-106.83959369999997,401 Castle Creek Rd,Critical Access Hospital,Aspen Valley Hospital,Aspen,CO
+639,8099,Colorado,38.069781300000045,-102.61049859999996,401 Kendall Dr,Critical Access Hospital,Prowers Medical Center,Lamar,CO
+640,8101,Colorado,38.233881,-104.623987,1008 Minnequa Ave,Short Term Acute Care Hospital,St Mary-Corwin Medical Center,Pueblo,CO
+641,8101,Colorado,38.28178310000004,-104.612694,400 W 16th St,Short Term Acute Care Hospital,Parkview Medical Center,Pueblo,CO
+642,8103,Colorado,40.04700260000004,-107.88229679999996,100 Pioneers Medical Center Dr,Critical Access Hospital,Pioneers Medical Center,Meeker,CO
+643,8103,Colorado,40.083193,-108.80146479999996,225 Eagle Crest St,Critical Access Hospital,Rangely District Hospital,Rangely,CO
+644,8105,Colorado,37.6753,-106.3635,310 County Road 14,Critical Access Hospital,Rio Grande Hospital,Del Norte,CO
+645,8107,Colorado,40.46333690000006,-106.81455589999996,1024 Central Park Dr,Short Term Acute Care Hospital,UCHealth Yampa Valley Medical Center,Steamboat Springs,CO
+646,8117,Colorado,39.538528,-106.131031,340 Peak One Dr,Short Term Acute Care Hospital,St Anthony Summit Medical Center,Frisco,CO
+647,8119,Colorado,38.97460420000005,-105.07449,16420 W Us Highway 24,Critical Access Hospital,UCHealth Pikes Peak Regional Hospital,Woodland Park,CO
+648,8123,Colorado,40.41402530000005,-104.65224009999996,1801 16th St,Short Term Acute Care Hospital,North Colorado Medical Center,Greeley,CO
+649,8125,Colorado,40.076215500000046,-102.23485479999994,1017 W 7th St,Critical Access Hospital,Wray Community District Hospital,Wray,CO
+650,8125,Colorado,40.12036020000005,-102.73703489999995,1000 W 8th Ave,Critical Access Hospital,Yuma District Hospital,Yuma,CO
+651,9001,Connecticut,41.055853600000034,-73.55386479999999,1 Hospital Plz,Short Term Acute Care Hospital,Stamford Hospital (AKA Stamford Health),Stamford,CT
+652,9001,Connecticut,41.201187,-73.20165349999996,2800 Main St,Short Term Acute Care Hospital,St Vincents Medical Center,Bridgeport,CT
+653,9001,Connecticut,41.18898730000007,-73.16643619999996,267 Grant St,Short Term Acute Care Hospital,Bridgeport Hospital,Bridgeport,CT
+654,9001,Connecticut,41.034308,-73.630196,5 Perryridge Rd,Short Term Acute Care Hospital,Greenwich Hospital,Greenwich,CT
+655,9001,Connecticut,41.40508570000003,-73.446289,24 Hospital Ave,Short Term Acute Care Hospital,Danbury Hospital,Danbury,CT
+656,9001,Connecticut,41.11112490000005,-73.42224169999997,34 Maple St,Short Term Acute Care Hospital,Norwalk Hospital,Norwalk,CT
+657,9003,Connecticut,41.59465280000006,-72.87580679999996,81 Meriden Ave,Short Term Acute Care Hospital,The Hospital of Central Connecticut - Bradley Memorial Campus,Southington,CT
+658,9003,Connecticut,41.7114,-72.8395,263 Farmington Ave,Short Term Acute Care Hospital,UConn John Dempsey Hospital (AKA UConn Health Center),Farmington,CT
+659,9003,Connecticut,41.75412270000004,-72.67917929999999,80 Seymour St,Short Term Acute Care Hospital,Hartford Hospital,Hartford,CT
+660,9003,Connecticut,41.78199710000007,-72.52552429999997,71 Haynes St,Short Term Acute Care Hospital,Manchester Memorial Hospital,Manchester,CT
+661,9003,Connecticut,41.67595840000007,-72.93576259999998,41 Brewster Rd,Short Term Acute Care Hospital,Bristol Hospital,Bristol,CT
+662,9003,Connecticut,41.80279210000003,-72.72948139999994,1 Abrahms Blvd,Short Term Acute Care Hospital,Hebrew Senior Care,West Hartford,CT
+663,9003,Connecticut,41.75375420000006,-72.68182039999994,282 Washington St,Childrens Hospital,Connecticut Childrens Medical Center,Hartford,CT
+664,9003,Connecticut,41.77496340000005,-72.69841179999997,114 Woodland St,Short Term Acute Care Hospital,Saint Francis Hospital and Medical Center,Hartford,CT
+665,9005,Connecticut,41.88105180000008,-73.48149969999997,50 Hospital Hill Rd,Short Term Acute Care Hospital,Sharon Hospital,Sharon,CT
+666,9005,Connecticut,41.79152650000003,-73.13382279999996,540 Litchfield St,Short Term Acute Care Hospital,Charlotte Hungerford Hospital,Torrington,CT
+667,9007,Connecticut,41.55447140000007,-72.64706389999998,28 Crescent St,Short Term Acute Care Hospital,Middlesex Hospital (AKA Middlesex Health System),Middletown,CT
+668,9009,Connecticut,41.21651820000005,-73.06530019999997,300 Seaside Ave,Short Term Acute Care Hospital,Bridgeport Hospital Milford Campus (FKA Milford Hospital),Milford,CT
+669,9009,Connecticut,41.552948300000025,-73.03686629999999,56 Franklin St,Short Term Acute Care Hospital,Saint Marys Hospital,Waterbury,CT
+670,9009,Connecticut,41.54011,-72.81888,435 Lewis Ave,Short Term Acute Care Hospital,MidState Medical Center,Meriden,CT
+671,9009,Connecticut,41.30442290000008,-72.93556629999995,20 York St,Short Term Acute Care Hospital,Yale New Haven Hospital,New Haven,CT
+672,9009,Connecticut,41.256806,-72.832842,100 Double Beach Rd,Short Term Acute Care Hospital,The Connecticut Hospice,Branford,CT
+673,9009,Connecticut,41.46281210000007,-72.83649619999994,22 Masonic Ave,Short Term Acute Care Hospital,Masonicare Health Center,Wallingford,CT
+674,9009,Connecticut,41.33501910000007,-73.08861989999997,130 Division St,Short Term Acute Care Hospital,Griffin Hospital,Derby,CT
+675,9009,Connecticut,41.55911270000007,-73.05985259999994,64 Robbins St,Short Term Acute Care Hospital,Waterbury Hospital (AKA Waterbury HEALTH),Waterbury,CT
+676,9011,Connecticut,41.33630780000004,-72.10560469999996,365 Montauk Ave,Short Term Acute Care Hospital,Lawrence & Memorial Hospital,New London,CT
+677,9011,Connecticut,41.54324390000005,-72.08899529999997,326 Washington St,Short Term Acute Care Hospital,The William W Backus Hospital (AKA Backus Hospital),Norwich,CT
+678,9013,Connecticut,41.86613550000004,-72.45046519999994,31 Union St,Short Term Acute Care Hospital,Rockville General Hospital,Vernon,CT
+679,9013,Connecticut,41.978018,-72.39203439999994,201 Chestnut Hill Rd,Short Term Acute Care Hospital,Johnson Memorial Hospital,Stafford Springs,CT
+680,9015,Connecticut,41.90654320000005,-71.91373549999997,320 Pomfret St,Short Term Acute Care Hospital,Day Kimball Hospital,Putnam,CT
+681,9015,Connecticut,41.71734320000007,-72.22593289999998,112 Mansfield Ave,Short Term Acute Care Hospital,Windham Hospital (FKA Windham Community Memorial Hospital),Willimantic,CT
+682,10001,Delaware,39.15129590000004,-75.52362019999998,640 S State St,Short Term Acute Care Hospital,Bayhealth Hospital - Kent Campus,Dover,DE
+683,10003,Delaware,39.68819030000003,-75.67687619999998,4755 Ogletown Stanton Rd,Short Term Acute Care Hospital,Christiana Hospital,Newark,DE
+684,10003,Delaware,39.74979480000008,-75.56665189999995,701 N Clayton St,Short Term Acute Care Hospital,Saint Francis Healthcare,Wilmington,DE
+685,10005,Delaware,38.64230960000003,-75.60659649999997,801 Middleford Rd,Short Term Acute Care Hospital,TidalHealth Nanticoke (FKA Nanticoke Memorial Hospital),Seaford,DE
+686,10005,Delaware,38.77195110000008,-75.14304559999994,424 Savannah Rd,Short Term Acute Care Hospital,Beebe Healthcare - Margaret H Rollins Lewes Campus (FKA Beebe Medical Center),Lewes,DE
+687,11001,District of Columbia,38.901261,-77.05074119999995,900 23rd St Nw,Short Term Acute Care Hospital,George Washington University Hospital,Washington,DC
+688,11001,District of Columbia,38.917530500000055,-77.02044169999994,2041 Georgia Ave NW,Short Term Acute Care Hospital,Howard University Hospital,Washington,DC
+689,11001,District of Columbia,38.91145320000004,-77.07527479999999,3800 Reservoir Rd NW,Short Term Acute Care Hospital,MedStar Georgetown University Hospital,Washington,DC
+690,11001,District of Columbia,38.936468700000034,-77.10914349999996,5255 Loughboro Rd Nw,Short Term Acute Care Hospital,Sibley Memorial Hospital,Washington,DC
+691,11001,District of Columbia,38.835939300000064,-76.98499359999994,1310 Southern Ave SE,Short Term Acute Care Hospital,United Medical Center (AKA Not for Profit Hospital Corporation - Closing 2023),Washington,DC
+692,11001,District of Columbia,38.92950040000005,-77.01449849999995,110 Irving St NW,Short Term Acute Care Hospital,MedStar Washington Hospital Center,Washington,DC
+693,11001,District of Columbia,38.92731070000008,-77.014524,111 Michigan Ave Nw,Childrens Hospital,Childrens National Medical Center (AKA Childrens National Health System),Washington,DC
+694,12001,Florida,29.639952900000026,-82.34267419999998,1600 Sw Archer Rd,Short Term Acute Care Hospital,UF Health Shands Hospital (FKA Shands at the University of Florida),Gainesville,FL
+695,12001,Florida,29.66030420000004,-82.41157209999994,6500 W Newberry Rd,Short Term Acute Care Hospital,North Florida Regional Medical Center,Gainesville,FL
+696,12005,Florida,30.186569,-85.665132,449 W 23rd St,Short Term Acute Care Hospital,Gulf Coast Regional Medical Center,Panama City,FL
+697,12005,Florida,30.159664400000054,-85.64862429999994,615 N Bonita Ave,Short Term Acute Care Hospital,Ascension Sacred Heart Hospital Bay (AKA Bay Medical Sacred Heart),Panama City,FL
+698,12009,Florida,28.109221500000046,-80.674222,250 N Wickham Rd,Short Term Acute Care Hospital,Melbourne Regional Medical Center (FKA Wuesthoff Medical Center - Melbourne),Melbourne,FL
+699,12009,Florida,28.630702900000077,-80.824111,951 N Washington Ave,Short Term Acute Care Hospital,Parrish Medical Center (AKA Parrish Healthcare),Titusville,FL
+700,12009,Florida,28.088147900000024,-80.61430549999994,1350 Hickory St,Short Term Acute Care Hospital,Holmes Regional Medical Center,Melbourne,FL
+701,12009,Florida,28.335356300000058,-80.72278189999997,110 Longwood Ave,Short Term Acute Care Hospital,Rockledge Regional Medical Center (FKA Wuesthoff Medical Center - Rockledge),Rockledge,FL
+702,12009,Florida,28.360053900000025,-80.62309339999996,701 W Cocoa Beach Cswy,Short Term Acute Care Hospital,Cape Canaveral Hospital,Cocoa Beach,FL
+703,12011,Florida,26.126496900000063,-80.20537669999999,401 NW 42nd Ave,Short Term Acute Care Hospital,Plantation General Hospital,Plantation,FL
+704,12011,Florida,26.123543,-80.259512,8201 W Broward Blvd,Short Term Acute Care Hospital,Westside Regional Medical Center,Plantation,FL
+705,12011,Florida,26.029695600000025,-80.24554909999995,7800 Sheridan St,Short Term Acute Care Hospital,Memorial Hospital Pembroke,Pembroke Pines,FL
+706,12011,Florida,26.26310140000004,-80.20294859999996,2801 N State Road 7,Short Term Acute Care Hospital,Northwest Medical Center,Margate,FL
+707,12011,Florida,26.206804800000043,-80.11101489999999,6401 N Federal Hwy,Short Term Acute Care Hospital,Broward Health Imperial Point (FKA Imperial Point Medical Center),Fort Lauderdale,FL
+708,12011,Florida,26.211968200000054,-80.25426069999997,7201 N University Dr,Short Term Acute Care Hospital,University Hospital & Medical Center,Tamarac,FL
+709,12011,Florida,26.27692860000008,-80.12147529999999,201 E Sample Rd,Short Term Acute Care Hospital,Broward Health North (FKA North Broward Medical Center),Deerfield Beach,FL
+710,12011,Florida,26.18714370000004,-80.11993139999998,4725 N Federal Hwy,Short Term Acute Care Hospital,Holy Cross Hospital,Fort Lauderdale,FL
+711,12011,Florida,26.018917200000036,-80.17972089999995,3501 Johnson St,Short Term Acute Care Hospital,Memorial Regional Hospital,Hollywood,FL
+712,12011,Florida,26.102224200000023,-80.14078,1600 S Andrews Ave,Short Term Acute Care Hospital,Broward Health Medical Center (FKA Broward General Medical Center),Fort Lauderdale,FL
+713,12011,Florida,26.08160040000007,-80.36376309999997,2950 Cleveland Clinic Blvd,Short Term Acute Care Hospital,Cleveland Clinic Florida,Weston,FL
+714,12011,Florida,25.99088680000005,-80.37283869999999,1901 Sw 172nd Ave,Short Term Acute Care Hospital,Memorial Hospital Miramar,Miramar,FL
+715,12011,Florida,26.268409200000065,-80.25571089999994,3000 Coral Hills Dr,Short Term Acute Care Hospital,Broward Health Coral Springs (FKA Coral Springs Medical Center),Coral Springs,FL
+716,12011,Florida,26.014047,-80.30967639999994,703 N Flamingo Rd,Short Term Acute Care Hospital,Memorial Hospital West,Pembroke Pines,FL
+717,12015,Florida,26.94062180000003,-82.04005819999998,809 E Marion Ave,Short Term Acute Care Hospital,Bayfront Health - Punta Gorda (FKA Charlotte Regional Medical Center),Punta Gorda,FL
+718,12015,Florida,26.98902860000004,-82.09571829999999,2500 Harbor Blvd,Short Term Acute Care Hospital,Bayfront Health - Port Charlotte (FKA Peace River Regional Medical Center),Port Charlotte,FL
+719,12015,Florida,26.988880900000023,-82.09885209999999,21298 Olean Blvd,Short Term Acute Care Hospital,Fawcett Memorial Hospital,Port Charlotte,FL
+720,12017,Florida,28.952068300000064,-82.62453939999995,6201 N Suncoast Blvd,Short Term Acute Care Hospital,Bayfront Health - Seven Rivers (FKA Seven Rivers Regional Medical Center),Crystal River,FL
+721,12017,Florida,28.833899400000064,-82.33586359999998,502 W Highland Blvd,Short Term Acute Care Hospital,Citrus Memorial Hospital,Inverness,FL
+722,12019,Florida,30.165964400000064,-81.73762259999995,2001 Kingsley Ave,Short Term Acute Care Hospital,Orange Park Medical Center,Orange Park,FL
+723,12021,Florida,26.213958900000023,-81.73202929999997,6101 Pine Ridge Rd,Short Term Acute Care Hospital,Physicians Regional Medical Center - Pine Ridge,Naples,FL
+724,12023,Florida,30.18398380000008,-82.68634779999996,340 NW Commerce Dr,Short Term Acute Care Hospital,Lake City Medical Center,Lake City,FL
+725,12027,Florida,27.226838900000075,-81.85029679999997,900 N Robert Ave,Short Term Acute Care Hospital,Desoto Memorial Hospital,Arcadia,FL
+726,12031,Florida,30.287847300000067,-81.60116439999996,3625 University Blvd S,Short Term Acute Care Hospital,Memorial Hospital Jacksonville,Jacksonville,FL
+727,12031,Florida,30.26279160000007,-81.44146079999996,4500 San Pablo Rd,Short Term Acute Care Hospital,Mayo Clinic Hospital - Florida,Jacksonville,FL
+728,12031,Florida,30.273534900000072,-81.39816309999998,1350 13th Ave S,Short Term Acute Care Hospital,Baptist Medical Center Beaches,Jacksonville Beach,FL
+729,12031,Florida,30.348622,-81.66413939999995,655 W 8th St,Short Term Acute Care Hospital,UF Health Jacksonville,Jacksonville,FL
+730,12031,Florida,30.307202,-81.689871,1 Shircliff Way,Short Term Acute Care Hospital,Ascension St Vincents Riverside Hospital,Jacksonville,FL
+731,12031,Florida,30.25377750000007,-81.58267469999998,4201 Belfort Rd,Short Term Acute Care Hospital,Ascension St Vincents Southside Hospital,Jacksonville,FL
+732,12033,Florida,30.476728,-87.21151519999995,5151 N 9th Ave,Short Term Acute Care Hospital,Ascension Sacred Heart Hospital Pensacola,Pensacola,FL
+733,12033,Florida,30.429481500000065,-87.23127529999994,1000 W Moreno St,Short Term Acute Care Hospital,Baptist Hospital,Pensacola,FL
+734,12033,Florida,30.515835700000025,-87.21802039999994,8383 N Davis Hwy,Short Term Acute Care Hospital,West Florida Hospital (AKA West Florida Healthcare),Pensacola,FL
+735,12035,Florida,29.47917990000008,-81.18943159999998,60 Memorial Medical Pkwy,Short Term Acute Care Hospital,AdventHealth Palm Coast (FKA Florida Hospital Flagler),Palm Coast,FL
+736,12039,Florida,30.70632040000004,-84.84142079999998,100 N Main St,Short Term Acute Care Hospital,Florida State Hospital,Chattahoochee,FL
+737,12049,Florida,27.539421300000072,-81.80727739999998,735 S 5th Ave,Critical Access Hospital,AdventHealth Wauchula (FKA Florida Hospital Wauchula),Wauchula,FL
+738,12051,Florida,26.75332750000007,-80.94145079999998,524 W Sagamore Ave,Critical Access Hospital,Hendry Regional Medical Center,Clewiston,FL
+739,12053,Florida,28.53665540000003,-82.53498979999995,11375 Cortez Blvd,Short Term Acute Care Hospital,Oak Hill Hospital,Brooksville,FL
+740,12053,Florida,28.5385,-82.44303859999997,17240 Cortez Blvd,Short Term Acute Care Hospital,Bayfront Health - Brooksville (FKA Brooksville Regional Hospital),Brooksville,FL
+741,12055,Florida,27.465613500000075,-81.43296309999994,3600 S Highlands Ave,Short Term Acute Care Hospital,Highlands Regional Medical Center,Sebring,FL
+742,12055,Florida,27.500009,-81.439625,4200 Sun N Lake Blvd,Short Term Acute Care Hospital,AdventHealth Sebring (FKA Florida Hospital Heartland Medical Center),Sebring,FL
+743,12057,Florida,27.938126900000043,-82.45918469999998,1 Tampa General Cir,Short Term Acute Care Hospital,Tampa General Hospital (AKA Florida Health Sciences Center),Tampa,FL
+744,12057,Florida,28.015678200000025,-82.13818909999998,301 N Alexander St,Short Term Acute Care Hospital,South Florida Baptist Hospital,Plant City,FL
+745,12057,Florida,27.932747600000027,-82.28738549999997,119 Oakfield Dr,Short Term Acute Care Hospital,Brandon Regional Hospital,Brandon,FL
+746,12057,Florida,28.06985970000005,-82.42233039999996,3100 E Fletcher Ave,Short Term Acute Care Hospital,AdventHealth Tampa (FKA Florida Hospital Tampa),Tampa,FL
+747,12057,Florida,27.937898200000063,-82.48939929999995,2901 W Swann Ave,Short Term Acute Care Hospital,Memorial Hospital of Tampa (FKA IASIS Memorial Hospital of Tampa),Tampa,FL
+748,12057,Florida,27.98148070000008,-82.48909309999993,3001 W Dr Martin Luther King Jr Blvd,Short Term Acute Care Hospital,St Josephs Hospital,Tampa,FL
+749,12057,Florida,28.013460700000053,-82.50412249999994,7171 N Dale Mabry Hwy,Short Term Acute Care Hospital,AdventHealth Carrollwood (FKA Florida Hospital Carrollwood),Tampa,FL
+750,12057,Florida,28.002690400000063,-82.574123,6001 Webb Rd,Short Term Acute Care Hospital,Tampa Community Hospital (FKA Town & Country Hospital),Tampa,FL
+751,12057,Florida,27.713689200000037,-82.36528219999997,4016 Sun City Center Blvd,Short Term Acute Care Hospital,South Bay Hospital,Sun City Center,FL
+752,12057,Florida,28.06564620000006,-82.42120809999994,12902 USF Magnolia Dr,Short Term Acute Care Hospital,Moffitt Cancer Center (AKA H Lee Moffitt Cancer Center & Research Institute),Tampa,FL
+753,12057,Florida,28.06369150000006,-82.42865,13000 Bruce B Downs Blvd,VA Hospital,James A Haley Veterans Hospital,Tampa,FL
+754,12059,Florida,30.760816,-85.683262,2600 Hospital Dr,Critical Access Hospital,Doctors Memorial Hospital,Bonifay,FL
+755,12061,Florida,27.658355700000072,-80.39376429999999,1000 36th St,Short Term Acute Care Hospital,Cleveland Clinic Indian River Hospital (FKA Indian River Medical Center),Vero Beach,FL
+756,12061,Florida,27.843529700000037,-80.48887529999996,13695 Us Highway 1,Short Term Acute Care Hospital,Sebastian River Medical Center,Sebastian,FL
+757,12063,Florida,30.786751,-85.241891,4250 Hospital Dr,Short Term Acute Care Hospital,Jackson Hospital,Marianna,FL
+758,12119,Florida,28.950209,-81.95826519999997,1451 El Camino Real,Short Term Acute Care Hospital,UF Health the Villages Hospital (FKA the Villages Regional Hospital),The Villages,FL
+759,12069,Florida,28.80809480000005,-81.86831849999999,600 E Dixie Ave,Short Term Acute Care Hospital,UF Health Leesburg Hospital (FKA Leesburg Regional Medical Center),Leesburg,FL
+760,12069,Florida,28.823794,-81.714703,1000 Waterman Way,Short Term Acute Care Hospital,AdventHealth Waterman (FKA Florida Hospital Waterman),Tavares,FL
+761,12069,Florida,28.55218750000006,-81.72143259999996,1900 Don Wickham Dr,Short Term Acute Care Hospital,Orlando Health South Lake Hospital,Clermont,FL
+762,12071,Florida,26.615871600000048,-81.65948279999998,1500 Lee Blvd,Short Term Acute Care Hospital,Lehigh Regional Medical Center,Lehigh Acres,FL
+763,12071,Florida,26.628409300000044,-81.87408049999993,2776 Cleveland Ave,Short Term Acute Care Hospital,Lee Memorial Hospital,Fort Myers,FL
+764,12071,Florida,26.5441,-81.8504,13681 Doctors Way,Short Term Acute Care Hospital,Gulf Coast Medical Center,Fort Myers,FL
+765,12071,Florida,26.639437900000075,-81.943245,636 Del Prado Blvd,Short Term Acute Care Hospital,Cape Coral Hospital,Cape Coral,FL
+766,12073,Florida,30.475990700000068,-84.231996,2626 Capital Medical Blvd,Short Term Acute Care Hospital,Capital Regional Medical Center,Tallahassee,FL
+767,12073,Florida,30.45648740000007,-84.26162549999998,1300 Miccosukee Rd,Short Term Acute Care Hospital,Tallahassee Memorial HealthCare,Tallahassee,FL
+768,12081,Florida,27.482857300000035,-82.62386529999998,2020 59th St W,Short Term Acute Care Hospital,Blake Medical Center,Bradenton,FL
+769,12081,Florida,27.497326800000053,-82.562227,206 2nd St E,Short Term Acute Care Hospital,Manatee Memorial Hospital,Bradenton,FL
+770,12081,Florida,27.390913,-82.435731,8330 Lakewood Ranch Blvd,Short Term Acute Care Hospital,Lakewood Ranch Medical Center,Bradenton,FL
+771,12083,Florida,29.17517870000006,-82.13890009999994,1500 Sw 1st Ave,Short Term Acute Care Hospital,AdventHealth Ocala (FKA Munroe Regional Medical Center),Ocala,FL
+772,12083,Florida,29.17550410000007,-82.13685229999999,1431 SW 1st Ave,Short Term Acute Care Hospital,Ocala Regional Medical Center,Ocala,FL
+773,12085,Florida,27.19897080000004,-80.24354709999994,200 Se Hospital Ave,Short Term Acute Care Hospital,Cleveland Clinic Martin North Hospital (FKA Martin Medical Center),Stuart,FL
+774,12086,Florida,25.812958300000048,-80.14140039999995,4300 Alton Rd,Short Term Acute Care Hospital,Mount Sinai Medical Center (FL),Miami Beach,FL
+775,12086,Florida,25.8675,-80.3125,1475 W 49th Pl,Short Term Acute Care Hospital,Larkin Community Hospital - Palm Springs Campus (FKA Palm Springs General Hospital),Hialeah,FL
+776,12086,Florida,25.860064,-80.214148,1100 Nw 95th St,Short Term Acute Care Hospital,North Shore Medical Center,Miami,FL
+777,12086,Florida,25.792369800000078,-80.21322089999995,1611 Nw 12th Ave,Short Term Acute Care Hospital,Jackson Memorial Hospital,Miami,FL
+778,12086,Florida,25.68314890000005,-80.34041449999995,8900 N Kendall Dr,Short Term Acute Care Hospital,Baptist Hospital,Miami,FL
+779,12086,Florida,25.84568270000005,-80.26845889999998,651 E 25th St,Short Term Acute Care Hospital,Hialeah Hospital,Hialeah,FL
+780,12086,Florida,25.78838370000005,-80.21448469999996,1475 Nw 12th Ave,Short Term Acute Care Hospital,Sylvester Comprehensive Cancer Center,Miami,FL
+781,12086,Florida,25.73093460000007,-80.38614029999997,11750 SW 40th St,Short Term Acute Care Hospital,Kendall Regional Medical Center,Miami,FL
+782,12086,Florida,25.705539200000032,-80.29314749999998,7031 Sw 62nd Ave,Short Term Acute Care Hospital,Larkin Community Hospital - South Miami Campus,South Miami,FL
+783,12086,Florida,25.74342060000004,-80.25473989999995,3100 S Douglas Rd,Short Term Acute Care Hospital,Coral Gables Hospital,Coral Gables,FL
+784,12086,Florida,25.88571170000006,-80.32643919999998,2001 W 68th St,Short Term Acute Care Hospital,Palmetto General Hospital,Hialeah,FL
+785,12086,Florida,25.47922690000007,-80.43047519999999,975 Baptist Way,Short Term Acute Care Hospital,Homestead Hospital,Homestead,FL
+786,12086,Florida,25.70350490000004,-80.29379779999994,6200 Sw 73rd St,Short Term Acute Care Hospital,South Miami Hospital,Miami,FL
+787,12086,Florida,25.96997760000005,-80.14538019999998,20900 Biscayne Blvd,Short Term Acute Care Hospital,Aventura Hospital and Medical Center,Aventura,FL
+788,12086,Florida,25.72429380000005,-80.27422089999999,5000 University Dr,Short Term Acute Care Hospital,Doctors Hospital,Coral Gables,FL
+789,12086,Florida,25.791499800000054,-80.21629239999999,1201 Nw 16th St,VA Hospital,Miami VA Healthcare System - Bruce W Carter VA Medical Center,Miami,FL
+790,12086,Florida,25.747314,-80.31765469999993,2500 Sw 75th Ave,Short Term Acute Care Hospital,Westchester General Hospital,Miami,FL
+791,12086,Florida,25.82286780000004,-80.19243169999999,5200 Ne 2nd Ave,Short Term Acute Care Hospital,Douglas Gardens Hospital (AKA Miami Jewish Health Systems),Miami,FL
+792,12087,Florida,24.580866800000024,-81.74255059999996,5900 College Rd,Short Term Acute Care Hospital,Lower Keys Medical Center,Key West,FL
+793,12087,Florida,25.005957500000022,-80.52203459999998,91500 Overseas Hwy,Critical Access Hospital,Mariners Hospital,Tavernier,FL
+794,12087,Florida,24.71020050000004,-81.09472669999997,3301 Overseas Hwy,Critical Access Hospital,Fishermens Community Hospital,Marathon,FL
+795,12089,Florida,30.653144300000065,-81.44858439999996,1250 S 18th St,Short Term Acute Care Hospital,Baptist Medical Center Nassau,Fernandina Beach,FL
+796,12091,Florida,30.735438100000067,-86.56231189999994,151 E Redstone Ave,Short Term Acute Care Hospital,North Okaloosa Medical Center,Crestview,FL
+797,12091,Florida,30.45459770000008,-86.63353319999999,1000 Mar Walt Dr,Short Term Acute Care Hospital,Fort Walton Beach Medical Center,Fort Walton Beach,FL
+798,12091,Florida,30.53354390000004,-86.49558459999997,2190 Highway 85 N,Short Term Acute Care Hospital,Twin Cities Hospital,Niceville,FL
+799,12093,Florida,27.259774,-80.82848909999996,1796 US Highway 441 N,Short Term Acute Care Hospital,Raulerson Hospital,Okeechobee,FL
+800,12095,Florida,28.52652470000004,-81.37760519999995,52 W Underwood St,Short Term Acute Care Hospital,Orlando Health Orlando Regional Medical Center,Orlando,FL
+801,12095,Florida,28.574469900000054,-81.36954149999997,601 E Rollins St,Short Term Acute Care Hospital,AdventHealth Orlando (FKA Florida Hospital Orlando),Orlando,FL
+802,12095,Florida,28.54983610000005,-81.52765759999994,10000 W Colonial Dr,Short Term Acute Care Hospital,Orlando Health - Health Central Hospital,Ocoee,FL
+803,12097,Florida,28.29962310000008,-81.40973249999996,700 W Oak St,Short Term Acute Care Hospital,Osceola Regional Medical Center,Kissimmee,FL
+804,12097,Florida,28.243114,-81.302787,2906 17th St,Short Term Acute Care Hospital,Orlando Health St Cloud Hospital (FKA St Cloud Regional Medical Center),Saint Cloud,FL
+805,12099,Florida,26.437005800000065,-80.12767969999999,5352 Linton Blvd,Short Term Acute Care Hospital,Delray Medical Center,Delray Beach,FL
+806,12099,Florida,26.82695970000003,-80.10567979999996,7305 N Military Trl,VA Hospital,West Palm Beach VA Medical Center,West Palm Beach,FL
+807,12099,Florida,26.724889200000064,-80.05218259999998,1309 N Flagler Dr,Short Term Acute Care Hospital,Good Samaritan Medical Center,West Palm Beach,FL
+808,12099,Florida,26.75580580000008,-80.062508,901 45th St,Short Term Acute Care Hospital,St Marys Medical Center,West Palm Beach,FL
+809,12099,Florida,26.652301400000056,-80.20504059999996,10101 Forest Hill Blvd,Short Term Acute Care Hospital,Wellington Regional Medical Center,Wellington,FL
+810,12099,Florida,26.3545,-80.2032,21644 State Road 7,Short Term Acute Care Hospital,West Boca Medical Center,Boca Raton,FL
+811,12099,Florida,26.684219400000075,-80.25203549999998,13001 Southern Blvd,Short Term Acute Care Hospital,Palms West Hospital,Loxahatchee,FL
+812,12099,Florida,26.724190300000032,-80.671271,39200 Hooker Hwy,Short Term Acute Care Hospital,Lakeside Medical Center,Belle Glade,FL
+813,12099,Florida,26.358578300000037,-80.1022013,800 Meadows Rd,Short Term Acute Care Hospital,Boca Raton Regional Hospital,Boca Raton,FL
+814,12099,Florida,26.82945670000004,-80.08684089999997,3360 Burns Rd,Short Term Acute Care Hospital,Palm Beach Gardens Medical Center,Palm Beach Gardens,FL
+815,12099,Florida,26.92258590000006,-80.09646679999997,1210 S Old Dixie Hwy,Short Term Acute Care Hospital,Jupiter Medical Center,Jupiter,FL
+816,12099,Florida,26.761936800000058,-80.08761229999999,2201 45th St,Short Term Acute Care Hospital,JFK Medical Center North Campus (FKA West Palm Hospital),West Palm Beach,FL
+817,12099,Florida,26.50461960000007,-80.06976609999998,2815 S Seacrest Blvd,Short Term Acute Care Hospital,Bethesda Hospital East (FKA Bethesda Memorial Hospital),Boynton Beach,FL
+818,12099,Florida,26.598604600000044,-80.09153879999997,5301 S Congress Ave,Short Term Acute Care Hospital,JFK Medical Center,Atlantis,FL
+819,12101,Florida,28.26093,-82.18801489999998,7050 Gall Blvd,Short Term Acute Care Hospital,AdventHealth Zephyrhills (FKA Florida Hospital Zephyrhills),Zephyrhills,FL
+820,12101,Florida,28.254315,-82.714474,6600 Madison St,Short Term Acute Care Hospital,Morton Plant North Bay Hospital,New Port Richey,FL
+821,12101,Florida,28.203797,-82.65982729999996,9330 State Road 54,Short Term Acute Care Hospital,Medical Center of Trinity (FKA Community Hospital),Trinity,FL
+822,12101,Florida,28.347899400000077,-82.20135079999994,13100 Fort King Rd,Short Term Acute Care Hospital,AdventHealth Dade City (FKA Florida Hospital Dade City),Dade City,FL
+823,12101,Florida,28.36125030000005,-82.68818339999996,14000 Fivay Rd,Short Term Acute Care Hospital,Regional Medical Center Bayonet Point,Hudson,FL
+824,12103,Florida,28.038029400000028,-82.70759379999998,3231 Mcmullen Booth Rd,Short Term Acute Care Hospital,Mease Countryside Hospital,Safety Harbor,FL
+825,12103,Florida,27.825340700000027,-82.702445,6000 49th St N,Short Term Acute Care Hospital,Northside Hospital,St Petersburg,FL
+826,12103,Florida,27.915014900000077,-82.80363729999993,201 14th St Sw,Short Term Acute Care Hospital,Largo Medical Center,Largo,FL
+827,12103,Florida,27.815581200000054,-82.72010039999998,6500 38th Ave N,Short Term Acute Care Hospital,St Petersburg General Hospital,Kenneth City,FL
+828,12103,Florida,27.752612,-82.73968719999993,1501 Pasadena Ave S,Short Term Acute Care Hospital,Palms of Pasadena Hospital,South Pasadena,FL
+829,12103,Florida,27.752612,-82.73968719999993,300 Pinellas St,Short Term Acute Care Hospital,Morton Plant Hospital,Clearwater,FL
